@@ -11,6 +11,7 @@ A curated list of awesome Vision Transformers resources in medical imaging, insp
 - [Medical Image Reconstruction](#reconstruction)
 - [Medical Image Registration](#registration)
 - [Medical Image Synthesis](#synthesis)
+- [Medical Image Detection](#detection)
 - [Others](#others)
 
 # Survey

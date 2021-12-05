@@ -2,9 +2,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
-A curated list of awesome Vision Transformers resources in medical imaging, inspired by the other awesome-initiatives.
-
-This repository is also a supplement for our survey paper **Vision Transformer in Medical Image Analysis: A Survey**.
+A curated list of awesome Vision Transformers resources in medical imaging, inspired by the other awesome-initiatives. This repository is also a supplement for our survey paper **Vision Transformer in Medical Image Analysis: A Survey**.
 
 ## Overview
 - [Survey papers](#survey)
@@ -233,7 +231,7 @@ arxiv 2021. []
 *Behnaz Gheflati, Hassan Rivaz.*<br>
  [[PDF](https://arxiv.org/abs/2110.14731)]
  
-## Classification COVID19 (Separate section due to large number of papers)
+## Classification COVID19 (Separate section its current significance)
 
   **Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus.** [12th March, 2021].<br>
 *Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye.*<br>

@@ -135,6 +135,10 @@ arxiv 2021. []
 *Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu.*<br>
  [[PDF](https://arxiv.org/abs/2109.03201)] [[Github](https://github.com/282857341/nnformer)]
  
+   **UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer.** [9th, Sep.,].<br>
+*Haonan Wang, Peng Cao, Jiaqi Wang, Osmar R.Zaiane.*<br>
+ [[PDF](https://arxiv.org/abs/2109.04335)] [[https://github.com/mcgregorwwww/uctransnet)]
+ 
    **MISSFormer: An Effective Medical Image Segmentation Transformer.** [15th, Sep. 2021].<br>
 *Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan.*<br>
  [[PDF](https://arxiv.org/abs/2109.07162)]
@@ -201,6 +205,14 @@ arxiv 2021. []
 *Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith.*<br>
  [[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/chrismats/medical_transformers)]
  
+   **A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI.** [7th Oct., 2021].<br>
+*Qing Lyu, Sanjeev V. Namjoshi, Emory McTyre, Umit Topaloglu, Richard Barcus, Michael D. Chan, Christina K. Cramer, Waldemar Debinski, Metin N. Gurcan, Glenn J. Lesser, Hui-Kuan Lin, Reginald F. Munden, Boris C. Pasche, Kiran Kumar Solingapuram Sai, Roy E. Strowd, Stephen B. Tatter, Kounosuke Watabe, Wei Zhang, Ge Wang, Christopher T. Whitlow.*<br>
+ [[PDF](https://arxiv.org/abs/2110.03588)] 
+ 
+   **CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans.** [17th Oct., 2021].<br>
+*Shahin Heidarian, Parnian Afshar, Anastasia Oikonomou, Konstantinos N. Plataniotis, Arash Mohammadi.*<br>
+ [[PDF](https://arxiv.org/abs/2110.08721)] 
+ 
    **Vision Transformer-based recognition of diabetic retinopathy grade.** [25th Oct., 2021].<br>
 *Jianfang Wu, Ruo Hu, Zhenghong Xiao, Jiaxu Chen, Jingwei Liu.*<br>
  [[PDF](https://pubmed.ncbi.nlm.nih.gov/34693536/)] 
@@ -263,14 +275,60 @@ arxiv 2021. []
 *Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye.*<br>
  [[PDF](https://arxiv.org/abs/2111.01338)]
  
-   **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.** [7th March, 2021] [⚡MICCAI, 2021].<br>
-*Wenxuan Wang, Chen Chen, Meng Ding, Jiangyun Li, Hong Yu, Sen Zha.*<br>
- [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
- 
- 
-
 
 # Reconstruction
+
+   **TransCT: Dual-path Transformer for Low Dose Computed Tomography.** [28th Feb., 2021] [⚡MICCAI, 2021].<br>
+*Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
+ [[PDF](https://arxiv.org/abs/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
+ 
+   **Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers.** [15th, 2021].<br>
+*Yilmaz Korkmaz, Salman UH Dar, Mahmut Yurt, Muzaffer Özbey, Tolga Çukur.*<br>
+ [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
+ 
+   **Deep MRI Reconstruction with Generative Vision Transformers .** [25th Sep., 2021].<br>
+*Yilmaz KorkmazMahmut Yurt, Salman Ul Hassan Dar, Muzaffer Özbey, Tolga Cukur.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6)] [[Github](https://github.com/icon-lab/SLATER)]
+ 
+   **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th June, 2021].<br>
+*Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
+ [[PDF](https://arxiv.org/abs/2106.04650)]
+ 
+   **Accelerated Multi-Modal MR Imaging with Transformers.** [27th June, 2021].<br>
+*Chun-Mei Feng, Yunlu Yan, Geng Chen, Huazhu Fu, Yong Xu, Ling Shao.*<br>
+ [[PDF](https://arxiv.org/abs/2106.14248)] [[Github](https://github.com/chunmeifeng/MTrans)]
+ 
+   **E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception.** [1st July, 2021] [⚡MICCAI, 2021].<br>
+*Yonghao Long, Zhaoshuo Li, Chi Hang Yee, Chi Fai Ng, Russell H. Taylor, Mathias Unberath, Qi Dou.*<br>
+ [[PDF](https://arxiv.org/abs/2107.00229)]
+ 
+   **Task Transformer Network for Joint MRI Reconstruction and Super-Resolution.** [12th June, 2021] [⚡MICCAI, 2021].<br>
+*Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2106.06742)] [[Github](https://github.com/chunmeifeng/T2Net)]
+ 
+   **Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [16th Sep., 2021] [👍ICCV Workshop, 2021].<br>
+*Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
+ [[PDF](https://arxiv.org/abs/2109.08044)] 
+ 
+   **3D Transformer-GAN for High-quality PET Reconstruction.** [29th Sep., 2021] [⚡MICCAI, 2021].<br>
+*Yanmei Luo, Yan Wang, Chen Zu, Bo Zhan, Xi Wu, Jiliu Zhou, Dinggang Shen, Luping Zhou.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_27)] 
+ 
+   **TranSMS: Transformers for Super-Resolution Calibration in Magnetic Particle Imaging.** [3rd Nov., 2021] .<br>
+*Alper Güngör, Baris Askin, Damla Alptekin Soydan, Emine Ulku Saritas, Can Barış Top, Tolga Çukur.*<br>
+ [[PDF](https://arxiv.org/abs/2111.02163)] 
+ 
+   **DuDoTrans: Dual-Domain Transformer Provides More Attention for Sinogram Restoration in Sparse-View CT Reconstruction.** [21st Nov., 2021] .<br>
+*Ce Wang, Kun Shang, Haimiao Zhang, Qian Li, Yuan Hui, S. Kevin Zhou.*<br>
+ [[PDF](https://arxiv.org/abs/2111.10790)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
+ 
+   **Self-supervised CT super-resolution with hybrid model.** [23rd Nov., 2021] .<br>
+*Zhicheng Zhang, Shaode Yu, Wenjian Qin, Xiaokun Liang, Yaoqin Xie, Guohua Cao.*<br>
+ [[PDF](https://www.sciencedirect.com/science/article/pii/S0010482521005692)] 
+ 
+   **MIST-net: Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction.** [29th, Nov., 2021] .<br>
+*Jiayi Pan, Weiwen Wu, Zhifan Gao, Heye Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2111.14831]
 
 # Registration
 

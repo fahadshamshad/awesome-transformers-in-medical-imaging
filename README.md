@@ -180,4 +180,12 @@ arxiv 2021. []
  [[PDF](https://arxiv.org/abs/2111.13299)]
  
 # Classification
+
+# Reconstruction
+
+# Registration
+
+# Synthesis
+
+# Others
  

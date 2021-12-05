@@ -89,7 +89,7 @@ arxiv 2021. []
  
    **A Multi-Branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation.** [21st May, 2021] [⚡MICCAI, 2021].<br>
 *Yinglin Zhang, Risa Higashita, Huazhu Fu, Yanwu Xu, Yang Zhang, Haofeng Liu, Jian Zhang, Jiang Liu.*<br>
- [[PDF](https://arxiv.org/abs/2106.07557)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
+ [[PDF](https://arxiv.org/abs/2106.07557)] 
  
    **DS-TransUNet:Dual Swin Transformer U-Net for Medical Image Segmentation.** [12 June, 2021].<br>
 *Ailiang Lin, Bingzhi Chen, Jiayu Xu, Zheng Zhang, Guangming Lu.*<br>
@@ -105,7 +105,11 @@ arxiv 2021. []
  
    **UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation.** [2nd July, 2021] [⚡MICCAI, 2021].<br>
 *Yunhe Gao, Mu Zhou, Dimitris Metaxas.*<br>
- [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/yhygao/UTNet)]
+ [[PDF](https://arxiv.org/abs/2107.04805)] [[Github](https://github.com/askerlee/segtran)]
+ 
+   **Few-Shot Domain Adaptation with Polymorphic Transformers.** [10th July, 2021] [⚡MICCAI, 2021].<br>
+*Shaohua Li, Xiuchao Sui, Jie Fu, Huazhu Fu, Xiangde Luo, Yangqin Feng, Xinxing Xu, Yong Liu, Daniel Ting, Rick Siow Mong Goh.*<br>
+ [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
  
    **TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation.** [12th July, 2021].<br>
 *Yao Chang, Hu Menghan, Zhai Guangtao, Zhang Xiao-Ping.*<br>
@@ -155,6 +159,10 @@ arxiv 2021. []
 *Yunxiang Li, Shuai Wang, Jun Wang, Guodong Zeng, Wenjun Liu, Qianni Zhang, Qun Jin, Yaqi Wang.*<br>
  [[PDF](https://arxiv.org/abs/2109.14813)] [[Github](https://github.com/kent0n-li/gt-u-net)]
  
+   **Transformer Assisted Convolutional Network for Cell Instance Segmentation.** [5th Oct., 2021] [👍 ISBI Workshop, 2021].<br>
+*Deepanshu Pandey, Pradyumna Gupta, Sumit Bhattacharya, Aman Sinha, Rohit Agarwal.*<br>
+ [[PDF](https://arxiv.org/abs/2110.02270)] [[Github](https://github.com/dsciitism/segpc-2021)]
+ 
    **Boundary-aware Transformers for Skin Lesion Segmentation.** [8th Oct., 2021] [⚡MICCAI, 2021].<br>
 *Jiacheng Wang, Lan Wei, Liansheng Wang, Qichao Zhou, Lei Zhu, Jing Qin.*<br>
  [[PDF](https://arxiv.org/abs/2110.03864)] [[Github](https://github.com/jcwang123/BA-Transformer)]
@@ -182,6 +190,10 @@ arxiv 2021. []
    **Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Fusion Encoder: Application to Liver Tumor and Vessel 3D reconstruction.** [26th Nov., 2021].<br>
 *Xiangyu Meng, Xudong Zhang, Gan Wang, Ying Zhang, Xin Shi, Huanhuan Dai, Zixuan Wang, Xun Wang.*<br>
  [[PDF](https://arxiv.org/abs/2111.13299)]
+ 
+   **Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis.** [29th Nov., 2021].<br>
+*Yucheng Tang, Dong Yang, Wenqi Li, Holger Roth, Bennett Landman, Daguang Xu, Vishwesh Nath, Ali Hatamizadeh.*<br>
+ [[PDF](https://arxiv.org/abs/2111.14791)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)]
  
 # Classification
 
@@ -282,17 +294,17 @@ arxiv 2021. []
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
  [[PDF](https://arxiv.org/abs/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
  
-   **Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers.** [15th, 2021].<br>
+   **Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers.** [15th May, 2021].<br>
 *Yilmaz Korkmaz, Salman UH Dar, Mahmut Yurt, Muzaffer Özbey, Tolga Çukur.*<br>
  [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
- 
-   **Deep MRI Reconstruction with Generative Vision Transformers .** [25th Sep., 2021].<br>
-*Yilmaz KorkmazMahmut Yurt, Salman Ul Hassan Dar, Muzaffer Özbey, Tolga Cukur.*<br>
- [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6)] [[Github](https://github.com/icon-lab/SLATER)]
  
    **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th June, 2021].<br>
 *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
  [[PDF](https://arxiv.org/abs/2106.04650)]
+ 
+   **Task Transformer Network for Joint MRI Reconstruction and Super-Resolution.** [12th June, 2021] [⚡MICCAI, 2021].<br>
+*Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2106.06742)] [[Github](https://github.com/chunmeifeng/T2Net)]
  
    **Accelerated Multi-Modal MR Imaging with Transformers.** [27th June, 2021].<br>
 *Chun-Mei Feng, Yunlu Yan, Geng Chen, Huazhu Fu, Yong Xu, Ling Shao.*<br>
@@ -302,13 +314,17 @@ arxiv 2021. []
 *Yonghao Long, Zhaoshuo Li, Chi Hang Yee, Chi Fai Ng, Russell H. Taylor, Mathias Unberath, Qi Dou.*<br>
  [[PDF](https://arxiv.org/abs/2107.00229)]
  
-   **Task Transformer Network for Joint MRI Reconstruction and Super-Resolution.** [12th June, 2021] [⚡MICCAI, 2021].<br>
-*Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu.*<br>
- [[PDF](https://arxiv.org/abs/2106.06742)] [[Github](https://github.com/chunmeifeng/T2Net)]
- 
    **Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [16th Sep., 2021] [👍ICCV Workshop, 2021].<br>
 *Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
  [[PDF](https://arxiv.org/abs/2109.08044)] 
+ 
+   **Transformer-Unet: Raw Image Processing with Unet.** [17th Sep., 2021].<br>
+*Youyang Sha, Yonghong Zhang, Xuquan Ji, Lei Hu.*<br>
+ [[PDF](https://arxiv.org/abs/2109.08417)]
+ 
+   **Deep MRI Reconstruction with Generative Vision Transformers .** [25th Sep., 2021].<br>
+*Yilmaz KorkmazMahmut Yurt, Salman Ul Hassan Dar, Muzaffer Özbey, Tolga Cukur.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6)] [[Github](https://github.com/icon-lab/SLATER)]
  
    **3D Transformer-GAN for High-quality PET Reconstruction.** [29th Sep., 2021] [⚡MICCAI, 2021].<br>
 *Yanmei Luo, Yan Wang, Chen Zu, Bo Zhan, Xi Wu, Jiliu Zhou, Dinggang Shen, Luping Zhou.*<br>
@@ -320,22 +336,66 @@ arxiv 2021. []
  
    **DuDoTrans: Dual-Domain Transformer Provides More Attention for Sinogram Restoration in Sparse-View CT Reconstruction.** [21st Nov., 2021] .<br>
 *Ce Wang, Kun Shang, Haimiao Zhang, Qian Li, Yuan Hui, S. Kevin Zhou.*<br>
- [[PDF](https://arxiv.org/abs/2111.10790)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
+ [[PDF](https://arxiv.org/abs/2111.10790)]
  
    **Self-supervised CT super-resolution with hybrid model.** [23rd Nov., 2021] .<br>
 *Zhicheng Zhang, Shaode Yu, Wenjian Qin, Xiaokun Liang, Yaoqin Xie, Guohua Cao.*<br>
  [[PDF](https://www.sciencedirect.com/science/article/pii/S0010482521005692)] 
  
-   **MIST-net: Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction.** [29th, Nov., 2021] .<br>
+   **MIST-net: Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction.** [29th Nov., 2021] .<br>
 *Jiayi Pan, Weiwen Wu, Zhifan Gao, Heye Zhang.*<br>
- [[PDF](https://arxiv.org/abs/2111.14831]
+ [[PDF](https://arxiv.org/abs/2111.14831)]
 
 # Registration
 
+  **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th April, 2021] [👍MIDL Short Paper, 2021].<br>
+*Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
+ [[PDF](https://arxiv.org/abs/2104.06468)] [[Github](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
+ 
+   **Attention for Image Registration (AiR): an unsupervised Transformer approach.** [5th May, 2021].<br>
+*Zihao Wang, Hervé Delingette.*<br>
+ [[PDF](https://arxiv.org/abs/2105.02282)]
+ 
+   **Learning Dual Transformer Network for Diffeomorphic Registration.** [21st Sep., 2021] [⚡MICCAI, 2021].<br>
+*Yungeng Zhang, Yuru Pei, Hongbin Zha.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)]
+ 
+   **TransMorph: Transformer for unsupervised medical image registration.** [19th Nov., 2021].<br>
+*Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
+ [[PDF](https://arxiv.org/abs/2111.10480)] [[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
+
 # Synthesis
 
+  **VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers.** [14th April, 2021] [👍ICCV Workshop on Computer Vision for Automated Medical Diagnosi, 2021].<br>
+*Sharif Amit Kamran, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Salah A. Baker.*<br>
+ [[PDF](https://arxiv.org/abs/2104.06757)] [[Github](https://github.com/SharifAmit/VTGAN)]
+ 
+   **PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer.** [28th May, 2021].<br>
+*Xuzhe Zhang, Xinzi He, Jia Guo, Nabil Ettehadi, Natalie Aw, David Semanek, Jonathan Posner, Andrew Laine, Yun Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2105.13993)] [[Github](https://github.com/XuzheZ/PTNet)]
+ 
+   **ResViT: Residual vision transformers for multi-modal medical image synthesis.** [30th June, 2021].<br>
+*Onat Dalmaz, Mahmut Yurt, Tolga Çukur.*<br>
+ [[PDF](https://arxiv.org/abs/2106.16031)] [[Github](https://github.com/icon-lab/ResViT)]
+ 
+   **CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation.** [12th Oct., 2021].<br>
+*Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu.*<br>
+ [[PDF](https://arxiv.org/abs/2110.06400)] [[Github](https://github.com/ristea/cycle-transformer)]
+
 # Detection
-COTR: Convolution in Transformer Network for End to End Polyp Detection
+ 
+   **COTR: Convolution in Transformer Network for End to End Polyp Detection.** [23rd May, 2021].<br>
+*Zhiqiang Shen, Chaonan Lin, Shaohua Zheng.*<br>
+ [[PDF](https://arxiv.org/abs/2105.10925)]
+  
+   **Transformer for Polyp Detection.** [14th Oct., 2021].<br>
+*Shijie Liu, Hongyu Zhou, Xiaozhou Shi, Junwen Pan.*<br>
+ [[PDF](https://arxiv.org/abs/2111.07918)]
+  
+   **Lymph Node Detection in T2 MRI with Transformers.** [9th Nov., 2021].<br>
+*Tejas Sudharshan Mathai, Sungwon Lee, Daniel C. Elton, Thomas C. Shen, Yifan Peng, Zhiyong Lu, Ronald M. Summers.*<br>
+ [[PDF](https://arxiv.org/abs/2111.04885)]
 
 # Others
+To be added.
  

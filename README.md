@@ -181,11 +181,103 @@ arxiv 2021. []
  
 # Classification
 
+  **TransMed: Transformers Advance Multi-modal Medical Image Classification.** [10th March, 2021].<br>
+*Yin Dai, Yifan Gao.*<br>
+ [[PDF](https://arxiv.org/abs/2103.05940)]
+ 
+   **Medical Transformer: Universal Brain Encoder for 3D MRI Analysis.** [28th April, 2021].<br>
+*Eunji Jun, Seungwoo Jeong, Da-Woon Heo, Heung-Il Suk.*<br>
+ [[PDF](https://arxiv.org/abs/2104.13633)] 
+ 
+   **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification.** [2nd June, 2021] [⚡NeurIPS, 2021].<br>
+*Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2106.00908)] [[Github](https://github.com/szc19990412/TransMIL)]
+ 
+   **Vision Transformer-based recognition of diabetic retinopathy grade.** [15 July, 2021] [⚡CVPR, 2021].<br>
+*Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang.*<br>
+ [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.html)] 
+ 
+   **Is it Time to Replace CNNs with Transformers for Medical Images?** [20th Aug., 2021] [👍ICCV Workshop of Automated Medical Diagnosis, 2021].<br>
+*Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith.*<br>
+ [[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/chrismats/medical_transformers)]
+ 
+   **Vision Transformer-based recognition of diabetic retinopathy grade.** [25th Oct., 2021].<br>
+*Jianfang Wu, Ruo Hu, Zhenghong Xiao, Jiaxu Chen, Jingwei Liu.*<br>
+ [[PDF](https://pubmed.ncbi.nlm.nih.gov/34693536/)] 
+ 
+   **VISION TRANSFORMERS FOR CLASSIFICATION OF BREAST ULTRASOUND IMAGES.** [27th Oct., 2021].<br>
+*Behnaz Gheflati, Hassan Rivaz.*<br>
+ [[PDF](https://arxiv.org/abs/2110.14731)]
+ 
+## Classification COVID19 (Separate section due to large number of papers)
+
+  **Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus.** [12th March, 2021].<br>
+*Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2103.07055)]
+ 
+   **Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification.** [15th April, 2021].<br>
+*Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2104.07235)]
+ 
+   **POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound.** [15th May, 2021].<br>
+*Shehan Perera, Srikar Adhikari, Alper Yilmaz.*<br>
+ [[PDF](https://arxiv.org/abs/2105.09913)] 
+ 
+   **Automatic Diagnosis of COVID-19 Using a tailored Transformer-Like Network.** [20th May, 2021].<br>
+*Chengeng Liu1, Qingshan Yin.*<br>
+ [[PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2010/1/012175)]
+ 
+   **COVID-VIT: Classification of COVID-19 from CT chest images based on vision transformer models.** [4th July, 2021].<br>
+*Xiaohong Gao, Yu Qian, Alice Gao.*<br>
+ [[PDF](https://arxiv.org/abs/2107.01682)] [[Github](https://github.com/xiaohong1/COVID-ViT)]
+ 
+   **xViTCOS: Explainable Vision Transformer Based COVID-19 Screening Using Radiography .** [6th July, 2021].<br>
+*Arnab Kumar MondalArnab Kumar Mondal, Arnab Bhattacharjee, Parag Singla, Prathosh AP.*<br>
+ [[PDF](https://www.techrxiv.org/articles/preprint/xViTCOS_Explainable_Vision_Transformer_Based_COVID-19_Screening_Using_Radiography/14912367/1)]
+ 
+   **Visual Transformer with Statistical Test for COVID-19 Classification.** [12th July, 2021] [👍ICCV MIA Workshop, 2021].<br>
+*Chih-Chung Hsu, Guan-Lin Chen, Mei-Hsuan Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2107.05334)] 
+ 
+   **MIA-COV19D: A transformer-based framework for COVID19 classification in chest CTs.** [15th July, 2021] [👍ICCV MIA Workshop, 2021].<br>
+*Lei Zhang, Yan Wen.*<br>
+ [[PDF](https://www.researchgate.net/publication/353105641_MIA-COV19D_A_transformer-based_framework_for_COVID19_classification_in_chest_CTs)]
+ 
+   **COViT-GAN: Vision Transformer forCOVID-19 Detection in CT images.** [10th August, 2021].<br>
+*Ara Abigail E. Ambita, Eujene Nikka V. Boquio, Prospero C. Naval Jr.*<br>
+ [[PDF](https://www.springerprofessional.de/en/covit-gan-vision-transformer-forcovid-19-detection-in-ct-scan-im/19652482)] 
+ 
+   **COVID-Transformer: Interpretable COVID-19 Detection Using Vision Transformer for Healthcare.** [23rd Sep., 2021].<br>
+*Debaditya Shome, T Kar, Sachi Nandan Mohanty, Prayag Tiwari, Khan Muhammad, Abdullah AlTameem, Yazhou Zhang, Abdul Khader Jilani Saudagar.*<br>
+ [[PDF](https://pubmed.ncbi.nlm.nih.gov/34769600/)]
+ 
+   **Vision Transformer based COVID-19 Detection using Chest X-rays.** [9th Oct., 2021].<br>
+*Koushik Sivarama Krishnan, Karthik Sivarama Krishnan.*<br>
+ [[PDF](https://arxiv.org/abs/2110.04458)]  
+ 
+   **COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer.** [16th Oct., 2021].<br>
+*Juntao Jiang, Shuyi Lin.*<br>
+ [[PDF](https://arxiv.org/abs/2110.08427)] 
+ 
+   **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training.** [2nd Nov., 2021] [⚡NeurIPS, 2021].<br>
+*Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2111.01338)]
+ 
+   **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.** [7th March, 2021] [⚡MICCAI, 2021].<br>
+*Wenxuan Wang, Chen Chen, Meng Ding, Jiangyun Li, Hong Yu, Sen Zha.*<br>
+ [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
+ 
+ 
+
+
 # Reconstruction
 
 # Registration
 
 # Synthesis
+
+# Detection
+COTR: Convolution in Transformer Network for End to End Polyp Detection
 
 # Others
  

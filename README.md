@@ -141,7 +141,7 @@ arxiv 2021. []
  
    **UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer.** [9th, Sep.,].<br>
 *Haonan Wang, Peng Cao, Jiaqi Wang, Osmar R.Zaiane.*<br>
- [[PDF](https://arxiv.org/abs/2109.04335)] [[https://github.com/mcgregorwwww/uctransnet)]
+ [[PDF](https://arxiv.org/abs/2109.04335)] [[Github](https://github.com/mcgregorwwww/uctransnet)]
  
    **MISSFormer: An Effective Medical Image Segmentation Transformer.** [15th, Sep. 2021].<br>
 *Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan.*<br>
@@ -179,7 +179,7 @@ arxiv 2021. []
 *Hongyi Wang, Shiao Xie, Lanfen Lin, Yutaro Iwamoto, Xian-Hua Han, Yen-Wei Chen, Ruofeng Tong.*<br>
  [[PDF](https://arxiv.org/abs/2111.04734)] [[Github](https://github.com/dootmaan/mt-unet)]
  
-   **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging.** [15th nOV., 2021] [⚡ICCV, 2021].<br>
+   **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging.** [15th Nov., 2021] [⚡ICCV, 2021].<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2111.07535)]
  
@@ -233,7 +233,7 @@ arxiv 2021. []
 *Behnaz Gheflati, Hassan Rivaz.*<br>
  [[PDF](https://arxiv.org/abs/2110.14731)]
  
-## Classification COVID19 (Separate section its current significance)
+## Classification COVID19 (Separate section due to its current significance)
 
   **Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus.** [12th March, 2021].<br>
 *Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye.*<br>

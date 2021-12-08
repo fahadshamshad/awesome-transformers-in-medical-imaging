@@ -31,23 +31,27 @@ arxiv 2021. []
 </code></pre>
 </details>
 
+**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [25th Oct., 2020].<br>
+*Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
+ [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
+
 
 
 # Segmentation
 
-**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov, 2020].<br>
+**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
  [[PDF](https://arxiv.org/abs/2011.09763)] 
  
- **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** [8th Feb, 2021].<br>
+ **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** [8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
  [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
  
-  **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** [16th Feb, 2021] [⚡MICCAI, 2021].<br>
+  **TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.** [16th Feb., 2021] [⚡MICCAI, 2021].<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
  [[PDF](https://arxiv.org/abs/2102.08005)] [[Github](https://github.com/Rayicer/TransFuse)]
  
-  **Convolution-Free Medical Image Segmentation using Transformers.** [26th Feb, 2021] [⚡MICCAI, 2021].<br>
+  **Convolution-Free Medical Image Segmentation using Transformers.** [26th Feb., 2021] [⚡MICCAI, 2021].<br>
 *Davood Karimi, Serge Vasylechko, Ali Gholipour.*<br>
  [[PDF](https://arxiv.org/abs/2102.13645)]
  

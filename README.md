@@ -31,7 +31,7 @@ arxiv 2021. []
 </code></pre>
 </details>
 
-**Application of Transformer in Medical Image Segmentation.** [25th Oct., 2020].<br>
+**Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
  [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
 

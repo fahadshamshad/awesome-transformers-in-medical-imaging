@@ -167,6 +167,10 @@ arxiv 2021. []
 *Jiacheng Wang, Lan Wei, Liansheng Wang, Qichao Zhou, Lei Zhu, Jing Qin.*<br>
  [[PDF](https://arxiv.org/abs/2110.03864)] [[Github](https://github.com/jcwang123/BA-Transformer)]
  
+   **Spine-transformers: Vertebra labeling and segmentation in arbitrary field-of-view spine CTs via 3D transformers.** [10th Oct., 2021] [⚡MIA, 2021].<br>
+*Rong Taoa, Wenyong Liub, Guoyan Zheng.*<br>
+ [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003030)]
+ 
    **AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation.** [20th Oct., 2021].<br>
 *Xiangyi Yan, Hao Tang, Shanlin Sun, Haoyu Ma, Deying Kong, Xiaohui Xie.*<br>
  [[PDF](https://arxiv.org/abs/2110.10403)]
@@ -194,6 +198,10 @@ arxiv 2021. []
    **Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis.** [29th Nov., 2021].<br>
 *Yucheng Tang, Dong Yang, Wenqi Li, Holger Roth, Bennett Landman, Daguang Xu, Vishwesh Nath, Ali Hatamizadeh.*<br>
  [[PDF](https://arxiv.org/abs/2111.14791)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)]
+ 
+   **FAT-Net: Feature Adaptive Transformers for Automated Skin Lesion Segmentation.** [4th Dec., 2021] [⚡MIA, 2021].<br>
+*Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
+ [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003728)] [[Github](https://github.com/SZUcsh/FAT-Net)]
  
 # Classification
 
@@ -286,6 +294,10 @@ arxiv 2021. []
    **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training.** [2nd Nov., 2021] [⚡NeurIPS, 2021].<br>
 *Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye.*<br>
  [[PDF](https://arxiv.org/abs/2111.01338)]
+ 
+   **Multi-task vision transformer using low-level chest X-ray feature corpus for COVID-19 diagnosis and severity quantification.** [4th Nov., 2021] [⚡MIA, 2021].<br>
+*Sangjoon Parka, Gwanghyun Kima,Yujin Oha, Joon Beom Seo, Sang Min Lee, Jin Hwan Kimc,Sungjun Moond, Jae-Kwang Lime, Jong Chul Ye.*<br>
+ [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003443)]
  
 
 # Reconstruction

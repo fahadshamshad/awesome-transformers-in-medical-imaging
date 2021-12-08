@@ -31,7 +31,7 @@ arxiv 2021. []
 </code></pre>
 </details>
 
-**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [25th Oct., 2020].<br>
+**Application of Transformer in Medical Image Segmentation.** [25th Oct., 2020].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
  [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
 

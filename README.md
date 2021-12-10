@@ -207,6 +207,11 @@ arxiv 2021. []
 *Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
  [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003728)] [[Github](https://github.com/SZUcsh/FAT-Net)]
  
+   **Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.** [9th Dec., 2021].<br>
+*Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2112.04894v1)] [[Github](https://github.com/HiLab-git/SSL4MIS)]
+ 
+ 
 # Classification
 
   **TransMed: Transformers Advance Multi-modal Medical Image Classification.** [10th March, 2021].<br>

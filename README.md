@@ -418,5 +418,7 @@ arxiv 2021. []
  [[PDF](https://arxiv.org/abs/2111.04885)]
 
 # Others
-To be added.
+   **3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis.** [9th Dec., 2021].<br>
+*Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai.*<br>
+ [[PDF](https://arxiv.org/abs/2112.04863)]
  

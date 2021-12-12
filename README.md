@@ -5,6 +5,8 @@
 
 A curated list of awesome Vision Transformers resources in medical imaging, inspired by the other awesome-initiatives. This repository is also a supplement for our survey paper **Vision Transformer in Medical Image Analysis: A Survey**.
 
+![](github_animation.gif)
+
 ## Overview
 - [Survey papers](#survey)
 - [Medical Image Segmentation](#segmentation)

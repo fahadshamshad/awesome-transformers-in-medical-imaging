@@ -213,6 +213,10 @@ arxiv 2021. []
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2112.04894v1)] [[Github](https://github.com/HiLab-git/SSL4MIS)]
  
+   **MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification.** [3rd Dec., 2021].<br>
+*Jingye Chen, Jieneng Chen, Zongwei Zhou, Bin Li, Alan Yuille, Yongyi Lu.*<br>
+ [[PDF](https://arxiv.org/abs/2112.01767)] [[Github](https://github.com/jingyechen/mt-transunet)]
+ 
  
 # Classification
 
@@ -420,7 +424,12 @@ arxiv 2021. []
  [[PDF](https://arxiv.org/abs/2111.04885)]
 
 # Others
+
    **3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis.** [9th Dec., 2021].<br>
 *Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai.*<br>
  [[PDF](https://arxiv.org/abs/2112.04863)]
+ 
+   **Pre-training and Fine-tuning Transformers for fMRI Prediction Tasks.** [10th Dec., 2021].<br>
+*Itzik Malkiel, Gony Rosenman, Lior Wolf, Talma Hendler.*<br>
+ [[PDF](https://arxiv.org/abs/2112.05761)]
  

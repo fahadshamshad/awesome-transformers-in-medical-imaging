@@ -256,6 +256,10 @@ arxiv 2021. []
 *Behnaz Gheflati, Hassan Rivaz.*<br>
  [[PDF](https://arxiv.org/abs/2110.14731)]
  
+   **CAE-TRANSFORMER: TRANSFORMER-BASED MODEL TO PREDICT INVASIVENESS OF LUNG ADENOCARCINOMA SUBSOLID NODULES FROM NON-THIN SECTION 3D CT SCANS.** [1st Dec., 2021].<br>
+*Shahin Heidarian, Parnian Afshar, Anastasia Oikonomou, Konstantinos N. Plataniotis, Arash Mohammadi.*<br>
+ [[PDF](https://arxiv.org/abs/2110.08721)]
+ 
 ## Classification COVID19 (Separate section due to its current significance)
 
   **Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus.** [12th March, 2021].<br>

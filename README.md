@@ -3,7 +3,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Vision Transformers resources in medical imaging, inspired by the other awesome-initiatives. This repository is also a supplement for our survey paper **Vision Transformer in Medical Image Analysis: A Survey**.
+A curated list of awesome Transformers resources in medical imaging, inspired by the other awesome-initiatives. This repository is also a supplement for our survey paper **Transformer in Medical Imaging: A Survey**.
 
 ![](github_animation.gif)
 

@@ -240,6 +240,10 @@ arxiv 2021. []
 *Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith.*<br>
  [[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/chrismats/medical_transformers)]
  
+   **Gene Transformer: Transformers for the Gene Expression-based Classification of Lung Cancer Subtypes** [26th Aug., 2021].<br>
+*Anwar Khan, Boreom Lee.*<br>
+ [[PDF](https://arxiv.org/abs/2108.11833)]
+ 
    **A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI.** [7th Oct., 2021].<br>
 *Qing Lyu, Sanjeev V. Namjoshi, Emory McTyre, Umit Topaloglu, Richard Barcus, Michael D. Chan, Christina K. Cramer, Waldemar Debinski, Metin N. Gurcan, Glenn J. Lesser, Hui-Kuan Lin, Reginald F. Munden, Boris C. Pasche, Kiran Kumar Solingapuram Sai, Roy E. Strowd, Stephen B. Tatter, Kounosuke Watabe, Wei Zhang, Ge Wang, Christopher T. Whitlow.*<br>
  [[PDF](https://arxiv.org/abs/2110.03588)] 
@@ -425,6 +429,10 @@ arxiv 2021. []
  [[PDF](https://arxiv.org/abs/2111.04885)]
 
 # Others
+
+   **Explainable Transformer-Based Neural Network for the Prediction of Survival Outcomes in Non-Small Cell Lung Cancer (NSCLC).** [14th Oct., 2021].<br>
+*Elly Kipkogei, Gustavo Alonso Arango Argoty, Ioannis Kagiampakis, Arijit Patra, Etai Jacob.*<br>
+ [[PDF](https://www.medrxiv.org/content/10.1101/2021.10.11.21264761v1)]
 
    **3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis.** [9th Dec., 2021].<br>
 *Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai.*<br>

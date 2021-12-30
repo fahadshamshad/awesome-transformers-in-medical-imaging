@@ -437,3 +437,7 @@ arxiv 2021. []
 *Itzik Malkiel, Gony Rosenman, Lior Wolf, Talma Hendler.*<br>
  [[PDF](https://arxiv.org/abs/2112.05761)]
  
+   **Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?.** [27th Dec., 2021].<br>
+*Sedigheh Eslami, Gerard de Melo, Christoph Meinel.*<br>
+ [[PDF](https://arxiv.org/abs/2112.13906)]
+ 

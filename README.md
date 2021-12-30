@@ -437,6 +437,10 @@ arxiv 2021. []
    **Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images.** [22nd Sep., 2021]. [⚡ICCV, 2021]<br>
 *Chen, Richard J and Lu, Ming Y and Weng, Wei-Hung and Chen, Tiffany Y and Williamson, Drew FK and Manz, Trevor and Shady, Maha and Mahmood, Faisal.*<br>
  [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Multimodal_Co-Attention_Transformer_for_Survival_Prediction_in_Gigapixel_Whole_Slide_ICCV_2021_paper.pdf)][[Github](https://github.com/mahmoodlab/mcat)]
+ 
+   **Limitations of Transformers on Clinical Text Classification.** [25th Sep., 2021].<br>
+*Shang Gao, Mohammed Alawad, M Todd Young, John Gounley, Noah Schaefferkoetter, Hong Jun Yoon, Xiao-Cheng Wu, Eric B Durbin, Jennifer Doherty, Antoinette Stroup, Linda Coyle, Georgia Tourassi.*<br>
+ [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364676)]
 
    **Explainable Transformer-Based Neural Network for the Prediction of Survival Outcomes in Non-Small Cell Lung Cancer (NSCLC).** [14th Oct., 2021].<br>
 *Elly Kipkogei, Gustavo Alonso Arango Argoty, Ioannis Kagiampakis, Arijit Patra, Etai Jacob.*<br>

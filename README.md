@@ -85,6 +85,10 @@ arxiv 2021. []
 *Zhuangzhuang Zhang, Baozhou Sun, Weixiong Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2104.14702)]
  
+   **GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification.** [29th April, 2021].<br>
+*Haoyuan Chen, Chen Li, Xiaoyan Li, Ge Wang, Weiming Hu, Yixin Li, Wanli Liu, Changhao Sun, Yudong Yao, Yueyang Teng, Marcin Grzegorzek.*<br>
+ [[PDF](https://arxiv.org/abs/2104.14528)]
+ 
    **Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentationr.** [12th May, 2021].<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang.*<br>
  [[PDF](https://arxiv.org/abs/2105.05537)]

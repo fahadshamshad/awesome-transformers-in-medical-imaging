@@ -15,7 +15,7 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 - [Medical Image Registration](#registration)
 - [Medical Image Synthesis](#synthesis)
 - [Medical Image Detection](#detection)
-- [Clinical Report Generation](#clinical report generation)
+- [Clinical Report Generation](#clinicalreportgeneration)
 - [Others](#others)
 
 # Survey

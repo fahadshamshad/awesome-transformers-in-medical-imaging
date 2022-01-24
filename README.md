@@ -20,19 +20,9 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 
 # Survey
 
-**Vision Transformers in Medical Image Analysis: A survey.**<br>
-*Authors*<br>
-arxiv 2021. []
-<details>
-  <summary>citation</summary>
-  <pre><code>@article{-,
-    author  = {-},
-    title   = {Vision Transformers in Medical Image Analysis: A survey.},
-    journal = {-},
-    year={2021}
-  }
-</code></pre>
-</details>
+**Transformer in Medical Imaging: A survey.**<br>
+*Authors*<Fahad Shamshad, Salman Khan, Syed Waqas Zamir, Muhammad Haris Khan, Munawar Hayat, Fahad Shahbaz Khan and Huazhu Fu>
+ [[Coming Soon](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
 
 **Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>

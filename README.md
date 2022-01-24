@@ -5,6 +5,8 @@
 
 A curated list of awesome Transformers resources in medical imaging, inspired by the other awesome-initiatives. This repository is also a supplement for our survey paper **Transformer in Medical Imaging: A Survey**.
 
+If you find some overlooked papers, please open issue or contact at fahad.shamshad3@gmail.com.
+
 ![](TMIsurvey_gif.gif)
 
 ## Overview

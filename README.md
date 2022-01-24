@@ -15,7 +15,7 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 - [Medical Image Registration](#registration)
 - [Medical Image Synthesis](#synthesis)
 - [Medical Image Detection](#detection)
-- [Clinical Report Generation](#clinical\ report\ generation)
+- [Clinical Report Generation](#clinicalreportgeneration)
 - [Others](#others)
 
 # Survey
@@ -433,7 +433,11 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 *Tejas Sudharshan Mathai, Sungwon Lee, Daniel C. Elton, Thomas C. Shen, Yifan Peng, Zhiyong Lu, Ronald M. Summers.*<br>
  [[PDF](https://arxiv.org/abs/2111.04885)]
  
-# Clinical Report Generation
+# Clinical-Report-Generation
+
+   **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019].[MLMI, 2019]<br>
+*Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_77)] 
 
    **Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.** [20th Oct., 2020].[NAACL, 2020]<br>
 *Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P. Langlotz, Dan Jurafsky.*<br>
@@ -447,6 +451,10 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 *Preethi Srinivasan, Daksh Thapar, Arnav Bhavsar, Aditya Nigam.*<br>
  [[PDF](https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html)]
  
+   **Confidence-Guided Radiology Report Generation.** [21st June, 2021].[⚡MICCAI, 2021]<br>
+*Yixin Wang, Zihao Lin, Jiang Tian, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He.*<br>
+ [[PDF](https://arxiv.org/abs/2106.10887)]
+ 
    **Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** [13th June, 2021].[⚡CVPR, 2021]<br>
 *Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou.*<br>
  [[PDF](https://arxiv.org/abs/2106.06963)]
@@ -459,6 +467,14 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 *Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2107.06964)]
  
+   **Automated Generation of Accurate and Fluent Medical X-ray Reports.** [27th Aug., 2021].[EMNLP, 2021]<br>
+*Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
+ [[PDF](https://arxiv.org/abs/2108.12126)] [[Github](https://github.com/ginobilinie/xray_report_generation)]
+ 
+   **AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** [1st Sep., 2021].[⚡MICCAI, 2021]<br>
+*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)] 
+ 
    **Automatic Generation of Chest X-ray Reports Using a Transformer-based Deep Learning Model.** [20th Oct., 2021].[ICDS, 2021]<br>
 *Ayoub Benali Amjoud; Mustapha Amrouch.*<br>
  [[PDF](https://ieeexplore.ieee.org/document/9626725/)]
@@ -467,9 +483,9 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 *Mingjie Li, Wenjia Cai, Rui Liu, Yuetian Weng, Xiaoyun Zhao, Cong Wang, Xin Chen, Zhong Liu, Caineng Pan, Mengke Li, yingfeng zheng, Yizhi Liu, Flora D. Salim, Karin Verspoor, Xiaodan Liang, Xiaojun Chang.*<br>
  [[PDF](https://openreview.net/pdf?id=FgYTwJbjbf)] [[Github](https://github.com/mlii0117/FFA-IR)]
  
-   **AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** [1st Sep., 2021].[⚡MICCAI, 2021]<br>
-*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
- [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)] 
+   **Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation.** [8th Nov., 2021].[⚡NeurIPS, 2021]<br>
+*Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun.*<br>
+ [[PDF](https://arxiv.org/abs/2111.04318)]
  
 
 # Others

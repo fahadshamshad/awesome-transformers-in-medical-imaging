@@ -15,6 +15,7 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 - [Medical Image Registration](#registration)
 - [Medical Image Synthesis](#synthesis)
 - [Medical Image Detection](#detection)
+- [Clinical Report Generation](#report)
 - [Others](#others)
 
 # Survey
@@ -209,6 +210,10 @@ arxiv 2021. []
 *Yucheng Tang, Dong Yang, Wenqi Li, Holger Roth, Bennett Landman, Daguang Xu, Vishwesh Nath, Ali Hatamizadeh.*<br>
  [[PDF](https://arxiv.org/abs/2111.14791)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)]
  
+   **MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification.** [3rd Dec., 2021].<br>
+*Jingye Chen, Jieneng Chen, Zongwei Zhou, Bin Li, Alan Yuille, Yongyi Lu.*<br>
+ [[PDF](https://arxiv.org/abs/2112.01767)] [[Github](https://github.com/jingyechen/mt-transunet)]
+ 
    **FAT-Net: Feature Adaptive Transformers for Automated Skin Lesion Segmentation.** [4th Dec., 2021] [⚡MIA, 2021].<br>
 *Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
  [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003728)] [[Github](https://github.com/SZUcsh/FAT-Net)]
@@ -217,9 +222,15 @@ arxiv 2021. []
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2112.04894v1)] [[Github](https://github.com/HiLab-git/SSL4MIS)]
  
-   **MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification.** [3rd Dec., 2021].<br>
-*Jingye Chen, Jieneng Chen, Zongwei Zhou, Bin Li, Alan Yuille, Yongyi Lu.*<br>
- [[PDF](https://arxiv.org/abs/2112.01767)] [[Github](https://github.com/jingyechen/mt-transunet)]
+   **D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation.** [3rd Jan., 2022].<br>
+*Yixuan Wu, Kuanlun Liao, Jintai Chen, Jinhong Wang, Danny Z. Chen, Honghao Gao, Jian Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2201.00462)]
+ 
+   **Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images.** [4th Jan., 2022].<br>
+*Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2201.01266)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)]
+ 
+
  
  
 # Classification
@@ -431,6 +442,8 @@ arxiv 2021. []
    **Lymph Node Detection in T2 MRI with Transformers.** [9th Nov., 2021].<br>
 *Tejas Sudharshan Mathai, Sungwon Lee, Daniel C. Elton, Thomas C. Shen, Yifan Peng, Zhiyong Lu, Ronald M. Summers.*<br>
  [[PDF](https://arxiv.org/abs/2111.04885)]
+ 
+# Report
 
 # Others
 

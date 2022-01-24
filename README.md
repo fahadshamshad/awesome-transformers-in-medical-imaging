@@ -15,7 +15,7 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 - [Medical Image Registration](#registration)
 - [Medical Image Synthesis](#synthesis)
 - [Medical Image Detection](#detection)
-- [Clinical Report Generation](#report)
+- [Clinical Report Generation](#clinical report generation)
 - [Others](#others)
 
 # Survey
@@ -433,7 +433,44 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 *Tejas Sudharshan Mathai, Sungwon Lee, Daniel C. Elton, Thomas C. Shen, Yifan Peng, Zhiyong Lu, Ronald M. Summers.*<br>
  [[PDF](https://arxiv.org/abs/2111.04885)]
  
-# Report
+# Clinical Report Generation
+
+   **Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.** [20th Oct., 2020].[NAACL, 2020]<br>
+*Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P. Langlotz, Dan Jurafsky.*<br>
+ [[PDF](https://arxiv.org/abs/2010.10042)] [[Github](https://github.com/ysmiura/ifcc)]
+
+   **Generating Radiology Reports via Memory-driven Transformer.** [30th Oct., 2020].[EMNLP, 2020]<br>
+*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
+ [[PDF](https://arxiv.org/abs/2010.16056)] [[Github](https://github.com/cuhksz-nlp/R2Gen)]
+ 
+   **Hierarchical X-Ray Report Generation via Pathology tags and Multi Head Attention.** [30th Nov., 2020].[EMNLP, 2020]<br>
+*Preethi Srinivasan, Daksh Thapar, Arnav Bhavsar, Aditya Nigam.*<br>
+ [[PDF](https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html)]
+ 
+   **Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** [13th June, 2021].[⚡CVPR, 2021]<br>
+*Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou.*<br>
+ [[PDF](https://arxiv.org/abs/2106.06963)]
+ 
+   **RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting.** [5th July, 2021].[⚡MICCAI, 2021]<br>
+*Benjamin Hou, Georgios Kaissis, Ronald Summers, Bernhard Kainz.*<br>
+ [[PDF](https://arxiv.org/abs/2107.02104)] [[Github](https://github.com/farrell236/RATCHET)]
+ 
+   **Surgical Instruction Generation with Transformers.** [14th July, 2021].[⚡MICCAI, 2021]<br>
+*Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2107.06964)]
+ 
+   **Automatic Generation of Chest X-ray Reports Using a Transformer-based Deep Learning Model.** [20th Oct., 2021].[ICDS, 2021]<br>
+*Ayoub Benali Amjoud; Mustapha Amrouch.*<br>
+ [[PDF](https://ieeexplore.ieee.org/document/9626725/)]
+  
+   **FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark.** [31st Oct., 2021].[⚡NeurIPS, 2021]<br>
+*Mingjie Li, Wenjia Cai, Rui Liu, Yuetian Weng, Xiaoyun Zhao, Cong Wang, Xin Chen, Zhong Liu, Caineng Pan, Mengke Li, yingfeng zheng, Yizhi Liu, Flora D. Salim, Karin Verspoor, Xiaodan Liang, Xiaojun Chang.*<br>
+ [[PDF](https://openreview.net/pdf?id=FgYTwJbjbf)] [[Github](https://github.com/mlii0117/FFA-IR)]
+ 
+   **AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** [1st Sep., 2021].[⚡MICCAI, 2021]<br>
+*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)] 
+ 
 
 # Others
 

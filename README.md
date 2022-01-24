@@ -22,7 +22,7 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 
 **Transformer in Medical Imaging: A survey.**<br>
 *Fahad Shamshad, Salman Khan, Syed Waqas Zamir, Muhammad Haris Khan, Munawar Hayat, Fahad Shahbaz Khan and Huazhu Fu.*<br>
- [**Coming Soon**]
+ [**Coming in a day**]
 
 **Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>

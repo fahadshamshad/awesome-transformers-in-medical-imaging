@@ -15,7 +15,7 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 - [Medical Image Registration](#registration)
 - [Medical Image Synthesis](#synthesis)
 - [Medical Image Detection](#detection)
-- [Clinical Report Generation](#clinical-report-generation)
+- [Clinical Report Generation](#clinical\ report\ generation)
 - [Others](#others)
 
 # Survey
@@ -433,7 +433,7 @@ A curated list of awesome Transformers resources in medical imaging, inspired by
 *Tejas Sudharshan Mathai, Sungwon Lee, Daniel C. Elton, Thomas C. Shen, Yifan Peng, Zhiyong Lu, Ronald M. Summers.*<br>
  [[PDF](https://arxiv.org/abs/2111.04885)]
  
-# Clinical-Report-Generation
+# Clinical Report Generation
 
    **Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.** [20th Oct., 2020].[NAACL, 2020]<br>
 *Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P. Langlotz, Dan Jurafsky.*<br>

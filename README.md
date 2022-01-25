@@ -521,3 +521,18 @@ Capitalizing on these advances in computer vision, the medical imaging field has
 *Sedigheh Eslami, Gerard de Melo, Christoph Meinel.*<br>
  [[PDF](https://arxiv.org/abs/2112.13906)]
  
+
+# Citation
+
+If you find the listing and survey useful for your work, please cite the paper:
+
+```
+@misc{shamshad2022transformers,
+      title={Transformers in Medical Imaging: A Survey}, 
+      author={Shamshad, Fahad and  Khan, Salman and Zamir, Syed Waqas and Khan, Muhammad Haris and  Hayat, Munawar and Khan, Fahad Shahbaz and Fu, Huazhu}
+      year={2022},
+      eprint={2201.09873},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```

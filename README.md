@@ -1,15 +1,20 @@
-# <p align=center>`Awesome Transformers in Medical Imaging`</p>
-# <p align=center> Repo supplements our [[Survey on Transformers in Medical Imaging](https://arxiv.org/abs/2201.09873)] </p>
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Transformers resources in medical imaging, inspired by the other awesome-initiatives. 
-<!--This repository is also a supplement for our survey paper **Transformer in Medical Imaging: A Survey**.-->
+# <p align=center> This repo supplements our [Survey on Transformers in Medical Imaging](https://arxiv.org/abs/2201.09873)
+[Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en), and [Huazhu Fu](https://hzfu.github.io/)
+</p>
 
-If you find some overlooked papers, please open issue or contact at fahad.shamshad3@gmail.com.
+
 
 ![](TMIsurvey_gif.gif)
+
+<hr />
+
+# <p align=center>`Awesome Transformers in Medical Imaging`</p>
+
+A curated list of awesome Transformers resources in medical imaging, inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at fahad.shamshad3@gmail.com.
 
 ## Overview
 - [Survey papers](#survey)
@@ -25,11 +30,9 @@ If you find some overlooked papers, please open issue or contact at fahad.shamsh
 # Survey
 
 **Transformer in Medical Imaging: A survey.** [25th Jan., 2022] <br>
-*Fahad Shamshad, Salman Khan, Syed Waqas Zamir, Muhammad Haris Khan, Munawar Hayat, Fahad Shahbaz Khan, and Huazhu Fu.*<br>
+*[Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en), and [Huazhu Fu](https://hzfu.github.io/).*<br>
 [[PDF](https://arxiv.org/abs/2201.09873)] 
 
-**Abstract:** Following unprecedented success on the natural language tasks, Transformers have been successfully applied to several computer vision problems, achieving state-of-the-art results and prompting researchers to reconsider the supremacy of convolutional neural networks (CNNs) as {de facto} operators.
-Capitalizing on these advances in computer vision, the medical imaging field has also witnessed growing interest for Transformers that can capture global context compared to CNNs with local receptive fields. Inspired from this transition, in this survey, we attempt to provide a comprehensive review of the applications of Transformers in medical imaging covering various aspects, ranging from recently proposed architectural designs to unsolved issues. Specifically, we survey the use of Transformers in medical image segmentation, detection, classification, reconstruction, synthesis, registration, clinical report generation, and other tasks. In particular, for each of these applications, we develop taxonomy, identify application-specific challenges as well as provide insights to solve them, and highlight recent trends. Further, we provide a critical discussion of the field's current state as a whole, including the identification of key challenges, open problems, and outlining promising future directions. We hope this survey will ignite further interest in the community and provide researchers with an up-to-date reference regarding applications of Transformer models in medical imaging. Finally, to cope with the rapid development in this field, we intend to regularly update the relevant latest papers and their open-source implementations on this page.
 
 **Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
@@ -39,7 +42,7 @@ Capitalizing on these advances in computer vision, the medical imaging field has
 
 # Segmentation
 
-**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020].<br>
+**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2021].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
  [[PDF](https://arxiv.org/abs/2011.09763)] 
  

@@ -42,9 +42,9 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 
 # Segmentation
 
-**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020].<br>
+**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
- [[PDF](https://arxiv.org/abs/2011.09763)] 
+ [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
  
  **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** [8th Feb., 2021].<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>

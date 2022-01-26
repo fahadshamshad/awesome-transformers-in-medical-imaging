@@ -230,6 +230,9 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2201.01266)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)]
  
+   **SegTransVAE: Hybrid CNN - Transformer with Regularization for medical image segmentation.** [21st Jan., 2022].<br>
+*Quan-Dung Pham, Hai Nguyen-Truong, Nam Nguyen Phuong, Khoa N. A. Nguyen.*<br>
+ [[PDF](https://arxiv.org/pdf/2201.08582.pdf)] [[Github](https://github.com/itruonghai/SegTransVAE)]
 
  
  

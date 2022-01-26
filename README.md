@@ -54,6 +54,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
  [[PDF](https://arxiv.org/abs/2102.08005)] [[Github](https://github.com/Rayicer/TransFuse)]
  
+   **Unsupervised Brain Anomaly Detection and Segmentation with Transformers.** [23rd Feb., 2021] [MIDL, 2021].<br>
+*Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, Robert Gray, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso.*<br>
+ [[PDF](https://arxiv.org/abs/2102.11650)]
+ 
   **Convolution-Free Medical Image Segmentation using Transformers.** [26th Feb., 2021] [⚡MICCAI, 2021].<br>
 *Davood Karimi, Serge Vasylechko, Ali Gholipour.*<br>
  [[PDF](https://arxiv.org/abs/2102.13645)]

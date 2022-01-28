@@ -234,9 +234,17 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2201.01266)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)]
  
+   **HT-Net: hierarchical context-attention transformer network for medical ct image segmentation.** [15th Jan., 2022].<br>
+*Mingjun Ma, Haiying Xia, Yumei Tan, Haisheng Li, Shuxiang Song .*<br>
+ [[PDF](https://link.springer.com/article/10.1007/s10489-021-03010-0)] 
+ 
    **SegTransVAE: Hybrid CNN - Transformer with Regularization for medical image segmentation.** [21st Jan., 2022].<br>
 *Quan-Dung Pham, Hai Nguyen-Truong, Nam Nguyen Phuong, Khoa N. A. Nguyen.*<br>
  [[PDF](https://arxiv.org/pdf/2201.08582.pdf)] [[Github](https://github.com/itruonghai/SegTransVAE)]
+ 
+   **Class-Aware Generative Adversarial Transformers for Medical Image Segmentation.** [26th Jan., 2022].<br>
+*Chenyu You, Ruihan Zhao, Fenglin Liu, Sandeep Chinchali, Ufuk Topcu, Lawrence Staib, James S. Duncan.*<br>
+ [[PDF](https://arxiv.org/abs/2201.10737)] 
 
  
  
@@ -340,6 +348,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Multi-task vision transformer using low-level chest X-ray feature corpus for COVID-19 diagnosis and severity quantification.** [4th Nov., 2021] [⚡MIA, 2021].<br>
 *Sangjoon Parka, Gwanghyun Kima,Yujin Oha, Joon Beom Seo, Sang Min Lee, Jin Hwan Kimc,Sungjun Moond, Jae-Kwang Lime, Jong Chul Ye.*<br>
  [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003443)]
+ 
+   **COVID-19 CT Image Recognition Algorithm Based on Transformer and CNN.** [24th Jan., 2022].<br>
+*Xiaole Fan, Xiufang Feng, Yunyun Dong, Huichao Hou.*<br>
+ [[PDF](https://www.sciencedirect.com/science/article/pii/S0141938222000026)]
  
 
 # Reconstruction

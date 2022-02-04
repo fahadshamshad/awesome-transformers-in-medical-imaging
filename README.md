@@ -245,6 +245,22 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Class-Aware Generative Adversarial Transformers for Medical Image Segmentation.** [26th Jan., 2022].<br>
 *Chenyu You, Ruihan Zhao, Fenglin Liu, Sandeep Chinchali, Ufuk Topcu, Lawrence Staib, James S. Duncan.*<br>
  [[PDF](https://arxiv.org/abs/2201.10737)] 
+ 
+   **RTNet: Relation Transformer Network for Diabetic Retinopathy Multi-lesion Segmentation.** [26th Jan., 2022] [⚡IEEE TMI, 2022]..<br>
+*Shiqi Huang, Jianan Li, Yuze Xiao, Ning Shen, Tingfa Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2201.11037)]
+ 
+   **Joint Liver and Hepatic Lesion Segmentation using a Hybrid CNN with Transformer Layers.** [26th Jan., 2022].<br>
+*Georg Hille, Shubham Agrawal, Christian Wybranski, Maciej Pech, Alexey Surov, Sylvia Saalfeld.*<br>
+ [[PDF](https://arxiv.org/abs/2201.10981)]
+ 
+   **Multi-scale boundary neural network for gastric tumor segmentation.** [28th Jan., 2022].<br>
+*Pengfei Wang, Yunqi Li, Yaru Sun, Dongzhi He & Zhiqiang Wang.*<br>
+ [[PDF](https://link.springer.com/article/10.1007/s00371-021-02374-1)]
+ 
+   **TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation.** [30th Jan., 2022].<br>
+*Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2201.12785)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
 
  
  
@@ -411,6 +427,14 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **MIST-net: Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction.** [29th Nov., 2021] .<br>
 *Jiayi Pan, Weiwen Wu, Zhifan Gao, Heye Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2111.14831)]
+ 
+   **ReconFormer: Accelerated MRI Reconstruction Using Recurrent Transformer.** [23rd Jan., 2022] .<br>
+*Pengfei Guo, Yiqun Mei, Jinyuan Zhou, Shanshan Jiang, Vishal M. Patel.*<br>
+ [[PDF](https://arxiv.org/abs/2201.09376)][[Github](https://github.com/guopengf/reconformer)]
+ 
+   **DSFormer: A Dual-domain Self-supervised Transformer for Accelerated Multi-contrast MRI Reconstruction.** [26th Jan., 2022] .<br>
+*Bo Zhou, Jo Schlemper, Neel Dey, Seyed Sadegh Mohseni Salehi, Chi Liu, James S. Duncan, Michal Sofka.*<br>
+ [[PDF](https://arxiv.org/abs/2201.10776)]
 
 # Registration
 
@@ -542,6 +566,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?.** [27th Dec., 2021].<br>
 *Sedigheh Eslami, Gerard de Melo, Christoph Meinel.*<br>
  [[PDF](https://arxiv.org/abs/2112.13906)]
+ 
+   **TransPPG: Two-stream Transformer for Remote Heart Rate Estimate.** [26th Jan., 2022].<br>
+*Jiaqi Kang, Su Yang, Weishan Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2201.10873)]
  
 
 # Citation

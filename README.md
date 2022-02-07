@@ -536,6 +536,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Mingjie Li, Wenjia Cai, Rui Liu, Yuetian Weng, Xiaoyun Zhao, Cong Wang, Xin Chen, Zhong Liu, Caineng Pan, Mengke Li, yingfeng zheng, Yizhi Liu, Flora D. Salim, Karin Verspoor, Xiaodan Liang, Xiaojun Chang.*<br>
  [[PDF](https://openreview.net/pdf?id=FgYTwJbjbf)] [[Github](https://github.com/mlii0117/FFA-IR)]
  
+   **Generalized Radiograph Representation Learning via Cross-supervision between Images and Free-text Radiology Reports.** [4th Nov., 2021].[Nature Machine Intelligence, 2022]<br>
+*Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu.*<br>
+ [[PDF](https://arxiv.org/abs/2111.03452)][[Github](https://github.com/funnyzhou/refers)]
+ 
    **Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation.** [8th Nov., 2021].[⚡NeurIPS, 2021]<br>
 *Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun.*<br>
  [[PDF](https://arxiv.org/abs/2111.04318)]

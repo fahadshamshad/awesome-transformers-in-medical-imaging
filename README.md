@@ -571,6 +571,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Jiaqi Kang, Su Yang, Weishan Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2201.10873)]
  
+   **Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer.** [3rd Feb., 2022].<br>
+*Xuan Xu, Prateek Prasanna.*<br>
+ [[PDF](https://arxiv.org/abs/2202.01857)]
+ 
 
 # Citation
 

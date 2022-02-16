@@ -306,6 +306,18 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Behnaz Gheflati, Hassan Rivaz.*<br>
  [[PDF](https://arxiv.org/abs/2110.14731)]
  
+   **Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers** [12th Feb., 2022] [👍ISBI, 2022].<br>
+*Grzegorz Jacenków, Alison Q. O'Neil, Sotirios A. Tsaftaris.*<br>
+ [[PDF](https://arxiv.org/abs/2202.06076)] [[Github](https://github.com/jacenkow/mmbt)]
+ 
+   **AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation.** [13th Feb., 2022].<br>
+*Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Chang Min Park, Jong Chul Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2202.06431)]
+ 
+   **ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification.** [15th Feb., 2022].<br>
+*Thomas Stegmüller, Antoine Spahr, Behzad Bozorgtabar, Jean-Philippe Thiran.*<br>
+ [[PDF](https://arxiv.org/abs/2202.07570v1)]
+ 
  
 ## Classification COVID19 (Separate section due to its current significance)
 

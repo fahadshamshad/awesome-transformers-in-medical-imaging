@@ -261,6 +261,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation.** [30th Jan., 2022].<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang.*<br>
  [[PDF](https://arxiv.org/abs/2201.12785)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
+ 
+   **TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery.** [30th Jan., 2022].<br>
+*Zixu Zhao, Yueming Jin, Pheng-Ann Heng.*<br>
+ [[PDF](https://arxiv.org/abs/2202.08453)]
 
  
  
@@ -317,6 +321,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification.** [15th Feb., 2022].<br>
 *Thomas Stegmüller, Antoine Spahr, Behzad Bozorgtabar, Jean-Philippe Thiran.*<br>
  [[PDF](https://arxiv.org/abs/2202.07570v1)]
+ 
+   **A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies.** [17th Feb., 2022].<br>
+*Yujin Oh, Go Eun Bae, Kyung-Hee Kim, Min-Kyung Yeo, Jong Chul Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2202.08510)]
  
  
 ## Classification COVID19 (Separate section due to its current significance)

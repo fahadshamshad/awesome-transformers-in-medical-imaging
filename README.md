@@ -33,6 +33,9 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *[Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en), and [Huazhu Fu](https://hzfu.github.io/).*<br>
 [[PDF](https://arxiv.org/abs/2201.09873)] 
 
+**Transformers in Medical Image Analysis: A Review.** [24th Feb., 2022].<br>
+*Kelei He, Chen Gan, Zhuoyuan Li, Islem Rekik, Zihao Yin, Wen Ji, Yang Gao, Qian Wang, Junfeng Zhang, Dinggang Shen.*<br>
+ [[PDF](https://arxiv.org/abs/2202.12165)] 
 
 **Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
@@ -266,6 +269,18 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Zixu Zhao, Yueming Jin, Pheng-Ann Heng.*<br>
  [[PDF](https://arxiv.org/abs/2202.08453)]
 
+   **A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks.** [28th Feb., 2022].<br>
+*Yunhe Gao, Mu Zhou, Di Liu, Dimitris Metaxas.*<br>
+ [[PDF](https://arxiv.org/abs/2203.00131)] [[Github](https://github.com/yhygao/CBIM-Medical-Image-Segmentation)]
+
+   **Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation.** [1st March, 2022].<br>
+*Christoforos Galazis, Huiyi Wu, Zhuoyu Li, Camille Petri, Anil A. Bharath, Marta Varela.*<br>
+ [[PDF](https://arxiv.org/abs/2203.00355)]
+
+   **Contextual Attention Network: Transformer Meets U-Net.** [2nd March, 2022].<br>
+*Azad Reza, Heidari Moein, Wu Yuli, Merhof Dorit.*<br>
+ [[PDF](https://arxiv.org/abs/2203.01932v1)] [[Github](https://github.com/rezazad68/TMUnet)]
+
  
  
 # Classification
@@ -325,6 +340,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies.** [17th Feb., 2022].<br>
 *Yujin Oh, Go Eun Bae, Kyung-Hee Kim, Min-Kyung Yeo, Jong Chul Ye.*<br>
  [[PDF](https://arxiv.org/abs/2202.08510)]
+
+   **RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification.** [23rd Feb., 2022].<br>
+*Moinak Bhattacharya, Shubham Jain, Prateek Prasanna.*<br>
+ [[PDF](https://arxiv.org/abs/2202.11781)]
  
  
 ## Classification COVID19 (Separate section due to its current significance)
@@ -456,6 +475,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Bo Zhou, Jo Schlemper, Neel Dey, Seyed Sadegh Mohseni Salehi, Chi Liu, James S. Duncan, Michal Sofka.*<br>
  [[PDF](https://arxiv.org/abs/2201.10776)]
 
+   **CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising.** [28th Feb., 2022] .<br>
+*Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu.*<br>
+ [[PDF](https://arxiv.org/abs/2202.13517)][[Github](https://github.com/wdayang/CTformer)]
+
 # Registration
 
   **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th April, 2021] [👍MIDL Short Paper, 2021].<br>
@@ -473,6 +496,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **TransMorph: Transformer for unsupervised medical image registration.** [19th Nov., 2021].<br>
 *Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
  [[PDF](https://arxiv.org/abs/2111.10480)] [[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
+
+   **A Transformer-based Network for Deformable Medical Image Registration.** [24th Feb., 2022].<br>
+*Yibo Wang, Wen Qian, Xuming Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2202.12104)]
 
 # Synthesis
 
@@ -598,6 +625,18 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer.** [3rd Feb., 2022].<br>
 *Xuan Xu, Prateek Prasanna.*<br>
  [[PDF](https://arxiv.org/abs/2202.01857)]
+
+   **Using Multi-scale SwinTransformer-HTC with Data augmentation in CoNIC Challenge.** [28th Feb., 2022].<br>
+*Chia-Yen Lee, Hsiang-Chin Chien, Ching-Ping Wang, Hong Yen, Kai-Wen Zhen, Hong-Kun Lin.*<br>
+ [[PDF](https://arxiv.org/abs/2202.13588)]
+
+   **Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology.** [1st March, 2022].<br>
+*Richard J. Chen, Rahul G. Krishnan.*<br>
+ [[PDF](https://arxiv.org/abs/2203.00585)][[Github](https://github.com/Richarizardd/Self-Supervised-ViT-Path)]
+
+   **Characterizing Renal Structures with 3D Block Aggregate Transformers.** [4th March, 2022].<br>
+*Xin Yu, Yucheng Tang, Yinchi Zhou, Riqiang Gao, Qi Yang, Ho Hin Lee, Thomas Li, Shunxing Bao, Yuankai Huo, Zhoubing Xu, Thomas A. Lasko, Richard G. Abramson, Bennett A. Landman.*<br>
+ [[PDF](https://arxiv.org/abs/2203.02430)]
  
 
 # Citation
@@ -614,3 +653,4 @@ If you find the listing and survey useful for your work, please cite the paper:
       primaryClass={cs.CV}
 }
 ```
+

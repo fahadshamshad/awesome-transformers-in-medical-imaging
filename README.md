@@ -280,6 +280,22 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Contextual Attention Network: Transformer Meets U-Net.** [2nd March, 2022].<br>
 *Azad Reza, Heidari Moein, Wu Yuli, Merhof Dorit.*<br>
  [[PDF](https://arxiv.org/abs/2203.01932v1)] [[Github](https://github.com/rezazad68/TMUnet)]
+ 
+   **Simulation-Driven Training of Vision Transformers Enabling Metal Segmentation in X-Ray Images.** [17th March, 2022].<br>
+*Fuxin Fan, Ludwig Ritschl, Marcel Beister, Ramyar Biniazan, Björn Kreher, Tristan M. Gottschalk, Steffen Kappler, Andreas Maier.*<br>
+ [[PDF](https://arxiv.org/abs/2203.09207)]
+ 
+   **TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers.** [21st March, 2022].<br>
+*Di Liu, Yunhe Gao, Qilong Zhangli, Zhennan Yan, Mu Zhou, Dimitris Metaxas.*<br>
+ [[PDF](https://arxiv.org/abs/2203.10726)]
+ 
+   **CAT-Net: A Cross-Slice Attention Transformer Model for Prostate Zonal Segmentation in MRI.** [29th March, 2022].<br>
+*Alex Ling Yu Hung, Haoxin Zheng, Qi Miao, Steven S. Raman, Demetri Terzopoulos, Kyunghyun Sung.*<br>
+ [[PDF](https://arxiv.org/abs/2203.15163)]
+ 
+   **UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation.** [1st April, 2022].<br>
+*Ali Hatamizadeh, Ziyue Xu, Dong Yang, Wenqi Li, Holger Roth, Daguang Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2204.00631)] [[Github](https://github.com/Project-MONAI/research-contributions)]
 
  
  
@@ -344,6 +360,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification.** [23rd Feb., 2022].<br>
 *Moinak Bhattacharya, Shubham Jain, Prateek Prasanna.*<br>
  [[PDF](https://arxiv.org/abs/2202.11781)]
+ 
+   **Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification.** [9th March, 2022].<br>
+*Zhiyuan Cai, Li Lin, Huaqing He, Xiaoying Tang.*<br>
+ [[PDF](https://arxiv.org/abs/2203.04614)]
  
  
 ## Classification COVID19 (Separate section due to its current significance)
@@ -478,6 +498,22 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising.** [28th Feb., 2022] .<br>
 *Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu.*<br>
  [[PDF](https://arxiv.org/abs/2202.13517)][[Github](https://github.com/wdayang/CTformer)]
+ 
+   **Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction.** [23rd March, 2022] .<br>
+*Minghui Wu, Yangdi Xu, Yingying Xu, Guangwei Wu, Qingqing Chen, Hongxiang Lin.*<br>
+ [[PDF](https://arxiv.org/abs/2203.12476)]
+ 
+   **Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution.** [26th March, 2022] .<br>
+*Guangyuan Li, Jun Lv, Yapeng Tian, Qi Dou, Chengyan Wang, Chenliang Xu, Jing Qin.*<br>
+ [[PDF](https://arxiv.org/abs/2203.13963)]
+ 
+   **Cross-Modality High-Frequency Transformer for MR Image Super-Resolution.** [29th March, 2022] .<br>
+*Chaowei Fang, Dingwen Zhang, Liang Wang, Yulun Zhang, Lechao Cheng, Junwei Han.*<br>
+ [[PDF](https://arxiv.org/abs/2203.15314)]
+ 
+   **Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers.** [1st April, 2022] .<br>
+*Jiahao Huang, Yingying Fang, Yang Nan, Huanjun Wu, Yinzhe Wu, Zhifan Gao, Yang Li, Zidong Wang, Pietro Lio, Daniel Rueckert, Yonina C. Eldar, Guang Yang.*<br>
+ [[PDF](https://arxiv.org/abs/2204.01706)]
 
 # Registration
 
@@ -500,6 +536,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **A Transformer-based Network for Deformable Medical Image Registration.** [24th Feb., 2022].<br>
 *Yibo Wang, Wen Qian, Xuming Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2202.12104)]
+ 
+   **Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** [29th March, 2022].<br>
+*Tony C. W. Mok, Albert C. S. Chung.*<br>
+ [[PDF](https://arxiv.org/abs/2203.15216)] [[Github](https://github.com/cwmok/C2FViT)]
 
 # Synthesis
 
@@ -533,6 +573,14 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Tejas Sudharshan Mathai, Sungwon Lee, Daniel C. Elton, Thomas C. Shen, Yifan Peng, Zhiyong Lu, Ronald M. Summers.*<br>
  [[PDF](https://arxiv.org/abs/2111.04885)]
  
+   **SATr: Slice Attention with Transformer for Universal Lesion Detection.** [13th March, 2022].<br>
+*Han Li, Long Chen, Hu Han, S. Kevin Zhou.*<br>
+ [[PDF](https://arxiv.org/abs/2203.07373)]
+ 
+   **Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection.** [13th March, 2022].<br>
+*Yu Tian, Guansong Pang, Fengbei Liu, Yuyuan Liu, Chong Wang, Yuanhong Chen, Johan W Verjans, Gustavo Carneiro.*<br>
+ [[PDF](https://arxiv.org/abs/2203.12121)]
+ 
 # Clinical-Report-Generation
 
    **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019].[MLMI, 2019]<br>
@@ -551,6 +599,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Preethi Srinivasan, Daksh Thapar, Arnav Bhavsar, Aditya Nigam.*<br>
  [[PDF](https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html)]
  
+   **Learning Domain Adaptation with Model Calibration for Surgical Report Generation in Robotic Surgery.** [31st March, 2021].[⚡ICRA, 2021]<br>
+*Mengya Xu, Mobarakol Islam, Chwee Ming Lim, Hongliang Ren.*<br>
+ [[PDF](https://arxiv.org/abs/2103.17120)] [[Github](https://github.com/XuMengyaAmy/ReportDALS)]
+ 
    **Confidence-Guided Radiology Report Generation.** [21st June, 2021].[⚡MICCAI, 2021]<br>
 *Yixin Wang, Zihao Lin, Jiang Tian, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He.*<br>
  [[PDF](https://arxiv.org/abs/2106.10887)]
@@ -566,6 +618,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Surgical Instruction Generation with Transformers.** [14th July, 2021].[⚡MICCAI, 2021]<br>
 *Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2107.06964)]
+   
+   **Class-Incremental Domain Adaptation with Smoothing and Calibration for Surgical Report Generation.** [23rd July, 2021].[⚡MICCAI, 2021]<br>
+*Mengya Xu, Mobarakol Islam, Chwee Ming Lim, Hongliang Ren.*<br>
+ [[PDF](https://arxiv.org/abs/2107.11091)] [[Github](https://github.com/XuMengyaAmy/CIDACaptioning)]
  
    **Automated Generation of Accurate and Fluent Medical X-ray Reports.** [27th Aug., 2021].[EMNLP, 2021]<br>
 *Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
@@ -637,6 +693,20 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Characterizing Renal Structures with 3D Block Aggregate Transformers.** [4th March, 2022].<br>
 *Xin Yu, Yucheng Tang, Yinchi Zhou, Riqiang Gao, Qi Yang, Ho Hin Lee, Thomas Li, Shunxing Bao, Yuankai Huo, Zhoubing Xu, Thomas A. Lasko, Richard G. Abramson, Bennett A. Landman.*<br>
  [[PDF](https://arxiv.org/abs/2203.02430)]
+ 
+   **Joint rotational invariance and adversarial training of a dual-stream Transformer yields state of the art Brain-Score for Area V4.** [8th March, 2022].<br>
+*William Berrios, Arturo Deza.*<br>
+ [[PDF](https://arxiv.org/abs/2203.06649)]
+ 
+   **Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework.** [11th March, 2022].<br>
+*Yiming Liu, Yanwei Pang, Ruiqi Jin, Zhenchang Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2203.05756)]
+ 
+   **Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis.** [29th March, 2022]. [MIDL, 2022]<br>
+*Simon Dahan, Abdulah Fawaz, Logan Z. J. Williams, Chunhui Yang, Timothy S. Coalson, Matthew F. Glasser, A. David Edwards, Daniel Rueckert, Emma C. Robinson.*<br>
+ [[PDF](https://arxiv.org/abs/2203.16414)][[Github](https://github.com/metrics-lab/surface-vision-transformers)]
+ 
+
  
 
 # Citation

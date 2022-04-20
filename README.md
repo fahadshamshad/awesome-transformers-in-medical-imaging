@@ -296,6 +296,14 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation.** [1st April, 2022].<br>
 *Ali Hatamizadeh, Ziyue Xu, Dong Yang, Wenqi Li, Holger Roth, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2204.00631)] [[Github](https://github.com/Project-MONAI/research-contributions)]
+ 
+   **CCAT-NET: A Novel Transformer Based Semi-supervised Framework for Covid-19 Lung Lesion Segmentation.** [6th April, 2022].<br>
+*Mingyang Liu, Li Xiao, Huiqin Jiang, Qing He.*<br>
+ [[PDF](https://arxiv.org/abs/2204.02839)] 
+ 
+   **Continual Hippocampus Segmentation with Transformers.** [17th April, 2022].<br>
+*Amin Ranem, Camila González, Anirban Mukhopadhyay.*<br>
+ [[PDF](https://arxiv.org/abs/2204.08043)] 
 
  
  
@@ -514,6 +522,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers.** [1st April, 2022] .<br>
 *Jiahao Huang, Yingying Fang, Yang Nan, Huanjun Wu, Yinzhe Wu, Zhifan Gao, Yang Li, Zidong Wang, Pietro Lio, Daniel Rueckert, Yonina C. Eldar, Guang Yang.*<br>
  [[PDF](https://arxiv.org/abs/2204.01706)]
+ 
+   **Low-Dose CT Denoising via Sinogram Inner-Structure Transformer.** [7th April, 2022] .<br>
+*Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2204.03163)]
 
 # Registration
 
@@ -705,6 +717,16 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis.** [29th March, 2022]. [MIDL, 2022]<br>
 *Simon Dahan, Abdulah Fawaz, Logan Z. J. Williams, Chunhui Yang, Timothy S. Coalson, Matthew F. Glasser, A. David Edwards, Daniel Rueckert, Emma C. Robinson.*<br>
  [[PDF](https://arxiv.org/abs/2203.16414)][[Github](https://github.com/metrics-lab/surface-vision-transformers)]
+ 
+   **Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces.** [7th April, 2022]. [MIDL, 2022]<br>
+*Simon Dahan, Hao Xu, Logan Z. J. Williams, Abdulah Fawaz, Chunhui Yang, Timothy S. Coalson, Michelle C. Williams, David E. Newby, A. David Edwards, Matthew F. Glasser, Alistair A. Young, Daniel Rueckert, Emma C. Robinson.*<br>
+ [[PDF](https://arxiv.org/abs/2204.03408)][[Github](https://github.com/metrics-lab/surface-vision-transformers)]
+ 
+   **3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume.** [14th April, 2022]. [MIDL, 2022]<br>
+*Jianye Pang, Cheng Jiang, Yihao Chen, Jianbo Chang, Ming Feng, Renzhi Wang, Jianhua Yao.*<br>
+ [[PDF](https://arxiv.org/abs/2204.06779)]
+ 
+
  
 
  

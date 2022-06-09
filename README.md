@@ -308,6 +308,18 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Continual Hippocampus Segmentation with Transformers.** [17th April, 2022].<br>
 *Amin Ranem, Camila González, Anirban Mukhopadhyay.*<br>
  [[PDF](https://arxiv.org/abs/2204.08043)] 
+ 
+   **TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation.** [26th April, 2022].<br>
+*Xuejian Li, Shiqiang Ma, Jijun Tang, Fei Guo.*<br>
+ [[PDF]([(https://arxiv.org/abs/2204.12185))]
+ 
+   **ColonFormer: An Efficient Transformer based Method for Colon Polyp Segmentation.** [17th May, 2022].<br>
+*Nguyen Thanh Duc, Nguyen Thi Oanh, Nguyen Thi Thuy, Tran Minh Triet, Dinh Viet Sang.*<br>
+ [[PDF]([(https://arxiv.org/abs/2205.08473))]
+ 
+   **Transformer based multiple instance learning for weakly supervised histopathology image segmentation.** [18th May, 2022].<br>
+*Ziniu Qian, Kailu Li, Maode Lai, Eric I-Chao Chang, Bingzheng Wei, Yubo Fan, Yan Xu.*<br>
+ [[PDF]([(https://arxiv.org/abs/2205.08878))]
 
  
  
@@ -376,6 +388,18 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification.** [9th March, 2022].<br>
 *Zhiyuan Cai, Li Lin, Huaqing He, Xiaoying Tang.*<br>
  [[PDF](https://arxiv.org/abs/2203.04614)]
+ 
+   **Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma.** [29th April, 2022].<br>
+*Liangrui Pan, Hetian Wang, Lian Wang, Boya Ji, Mingting Liu, Mitchai Chongcheawchamnan, Jin Yuan, Shaoliang Peng.*<br>
+ [[PDF](https://arxiv.org/abs/2204.13838)]
+ 
+   **HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images.** [17th May, 2022].<br>
+*Yuhao Mo, Chu Han, Yu Liu, Min Liu, Zhenwei Shi, Jiatai Lin, Bingchao Zhao, Chunwang Huang, Bingjiang Qiu, Yanfen Cui, Lei Wu, Xipeng Pan, Zeyan Xu, Xiaomei Huang, Zaiyi Liu, Ying Wang, Changhong Liang.*<br>
+ [[PDF](https://arxiv.org/abs/2205.08390)]
+ 
+   **A graph-transformer for whole slide image classification** [19th May, 2022].<br>
+*Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama.*<br>
+ [[PDF](https://arxiv.org/abs/2205.09671)] [[Github]([https://github.com/jacenkow/mmbt](https://github.com/vkola-lab/tmi2022))]
  
  
 ## Classification COVID19 (Separate section due to its current significance)
@@ -530,6 +554,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Low-Dose CT Denoising via Sinogram Inner-Structure Transformer.** [7th April, 2022] .<br>
 *Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2204.03163)]
+ 
+   **Masked Co-attentional Transformer reconstructs 100x ultra-fast/low-dose whole-body PET from longitudinal images and anatomically guided MRI.** [9th May, 2022] .<br>
+*Yan-Ran Wang, Liangqiong Qu, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link.*<br>
+ [[PDF](https://arxiv.org/abs/2205.04044)]
 
 # Registration
 
@@ -574,6 +602,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation.** [12th Oct., 2021].<br>
 *Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu.*<br>
  [[PDF](https://arxiv.org/abs/2110.06400)] [[Github](https://github.com/ristea/cycle-transformer)]
+ 
+   **One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation.** [28th April, 2022].<br>
+*Jiang Liu, Srivathsa Pasumarthi, Ben Duffy, Enhao Gong, Greg Zaharchuk, Keshav Datta.*<br>
+ [[PDF](https://arxiv.org/abs/2204.13738)] 
 
 # Detection
  
@@ -596,6 +628,14 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection.** [13th March, 2022].<br>
 *Yu Tian, Guansong Pang, Fengbei Liu, Yuyuan Liu, Chong Wang, Yuanhong Chen, Johan W Verjans, Gustavo Carneiro.*<br>
  [[PDF](https://arxiv.org/abs/2203.12121)]
+ 
+   **Unsupervised Contrastive Learning based Transformer for Lung Nodule Detection.** [30th April, 2022].<br>
+*Chuang Niu, Ge Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2205.00122)]
+ 
+   **An Effective Transformer-based Solution for RSNA Intracranial Hemorrhage Detection Competition.** [16th May, 2022].<br>
+*Fangxin Shang, Siqi Wang, Xiaorong Wang, Yehui Yang.*<br>
+ [[PDF](https://arxiv.org/abs/2205.07556)] [[Github]([https://github.com/ristea/cycle-transformer](https://github.com/PaddlePaddle/Research))]
  
 # Clinical-Report-Generation
 
@@ -663,6 +703,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun.*<br>
  [[PDF](https://arxiv.org/abs/2111.04318)]
  
+   **Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures.** [5th May, 2022].<br>
+*Edward Vendrow, Ethan Schonfeld.*<br>
+ [[PDF](https://arxiv.org/abs/2205.02841)]
+ 
 
 # Others
 
@@ -729,6 +773,18 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume.** [14th April, 2022]. [MIDL, 2022]<br>
 *Jianye Pang, Cheng Jiang, Yihao Chen, Jianbo Chang, Ming Feng, Renzhi Wang, Jianhua Yao.*<br>
  [[PDF](https://arxiv.org/abs/2204.06779)]
+ 
+   **Local Attention Graph-based Transformer for Multi-target Genetic Alteration Prediction.** [13th May, 2022].<br>
+*Daniel Reisenbüchler, Sophia J. Wagner, Melanie Boxberg, Tingying Peng.*<br>
+ [[PDF](https://arxiv.org/abs/2205.06672)]
+ 
+   **A microstructure estimation Transformer inspired by sparse representation for diffusion MRI.** [13th May, 2022].<br>
+*Tianshu Zheng, Cong Sun, Weihao Zheng, Wen Shi, Haotian Li, Yi Sun, Yi Zhang, Guangbin Wang, Chuyang Ye, Dan Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2205.06450)]
+ 
+   **BabyNet: Residual Transformer Module for Birth Weight Prediction on Fetal Ultrasound Video.** [19th May, 2022].<br>
+*Szymon Płotka, Michal K. Grzeszczyk, Robert Brawura-Biskupski-Samaha, Paweł Gutaj, Michał Lipa, Tomasz Trzciński, Arkadiusz Sitek.*<br>
+ [[PDF](https://arxiv.org/abs/2205.09382)][[Github]([https://github.com/metrics-lab/surface-vision-transformers](https://github.com/sanoscience/babynet))]
  
 
  

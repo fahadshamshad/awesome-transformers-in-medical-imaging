@@ -786,6 +786,11 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *Szymon Płotka, Michal K. Grzeszczyk, Robert Brawura-Biskupski-Samaha, Paweł Gutaj, Michał Lipa, Tomasz Trzciński, Arkadiusz Sitek.*<br>
  [[PDF](https://arxiv.org/abs/2205.09382)][[Github]([https://github.com/metrics-lab/surface-vision-transformers](https://github.com/sanoscience/babynet))]
  
+   **Transformer-based out-of-distribution detection for clinically safe segmentation.** [21st May, 2022]. [MIDL, 2022 (Oral)]<br>
+*Mark S Graham, Petru-Daniel Tudosiu, Paul Wright, Walter Hugo Lopez Pinaya, U Jean-Marie, Yee Mah, James Teo, Rolf H Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M Jorge Cardoso.*<br>
+ [[PDF](https://arxiv.org/abs/2205.10650)]
+ 
+ 
 
  
 

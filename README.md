@@ -319,15 +319,19 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
  
    **TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation.** [26th April, 2022].<br>
 *Xuejian Li, Shiqiang Ma, Jijun Tang, Fei Guo.*<br>
- [[PDF]([(https://arxiv.org/abs/2204.12185))]
+ [[PDF](https://arxiv.org/abs/2204.12185)]
  
    **ColonFormer: An Efficient Transformer based Method for Colon Polyp Segmentation.** [17th May, 2022].<br>
 *Nguyen Thanh Duc, Nguyen Thi Oanh, Nguyen Thi Thuy, Tran Minh Triet, Dinh Viet Sang.*<br>
- [[PDF]([(https://arxiv.org/abs/2205.08473))]
+ [[PDF](https://arxiv.org/abs/2205.08473)]
  
    **Transformer based multiple instance learning for weakly supervised histopathology image segmentation.** [18th May, 2022].<br>
 *Ziniu Qian, Kailu Li, Maode Lai, Eric I-Chao Chang, Bingzheng Wei, Yubo Fan, Yan Xu.*<br>
- [[PDF]([(https://arxiv.org/abs/2205.08878))]
+ [[PDF](https://arxiv.org/abs/2205.08878)]
+ 
+   **Transformer based Generative Adversarial Network for Liver Segmentation.** [21st May, 2022].<br>
+*Ugur Demir, Zheyuan Zhang, Bin Wang, Matthew Antalek, Elif Keles, Debesh Jha, Amir Borhani, Daniela Ladner, Ulas Bagci.*<br>
+ [[PDF](https://arxiv.org/abs/2205.08878)][[Github](https://github.com/Project-MONAI/research-contributions)]
 
  
  
@@ -407,7 +411,15 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
  
    **A graph-transformer for whole slide image classification** [19th May, 2022].<br>
 *Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama.*<br>
- [[PDF](https://arxiv.org/abs/2205.09671)] [[Github]([https://github.com/jacenkow/mmbt](https://github.com/vkola-lab/tmi2022))]
+ [[PDF](https://arxiv.org/abs/2205.09671)] [[Github](https://github.com/jacenkow/mmbt)]
+ 
+   **A Comparative Study of Gastric Histopathology Sub-size Image Classification: from Linear Regression to Visual Transformer** [19th May, 2022].<br>
+*Weiming Hu, Haoyuan Chen, Wanli Liu, Xiaoyan Li, Hongzan Sun, Xinyu Huang, Marcin Grzegorzek, Chen Li.*<br>
+ [[PDF]([https://arxiv.org/abs/2205.09671)]
+ 
+   **Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer** [30th May, 2022].<br>
+*Fu-Ming Guo, Yingfang Fan.*<br>
+ [[PDF]([https://arxiv.org/abs/2205.15290)]
  
  
 ## Classification COVID19 (Separate section due to its current significance)

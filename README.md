@@ -35,7 +35,7 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 
 **Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review.** [9th Jan., 2023].<br>
 Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amirali Molaei, Yiwei Jia, Abin Jose, Rijo Roy, Dorit Merhof
-[[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
+[[Paper]](https://arxiv.org/pdf/2301.03505.pdf)
 
 **Medical image analysis based on transformer: A Review.** [13th Aug., 2022].<br>
 *Zhaoshan Liu, Lei Shen.*<br>

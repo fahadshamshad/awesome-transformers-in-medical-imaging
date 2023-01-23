@@ -33,6 +33,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
 *[Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en), and [Huazhu Fu](https://hzfu.github.io/).*<br>
 [[PDF](https://arxiv.org/abs/2201.09873)] 
 
+**Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review.** [9th Jan., 2023].<br>
+Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amirali Molaei, Yiwei Jia, Abin Jose, Rijo Roy, Dorit Merhof
+[[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
+
 **Medical image analysis based on transformer: A Review.** [13th Aug., 2022].<br>
 *Zhaoshan Liu, Lei Shen.*<br>
  [[PDF](https://arxiv.org/abs/2208.06643)] 
@@ -332,6 +336,14 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Transformer based Generative Adversarial Network for Liver Segmentation.** [21st May, 2022].<br>
 *Ugur Demir, Zheyuan Zhang, Bin Wang, Matthew Antalek, Elif Keles, Debesh Jha, Amir Borhani, Daniela Ladner, Ulas Bagci.*<br>
  [[PDF](https://arxiv.org/abs/2205.08878)][[Github](https://github.com/Project-MONAI/research-contributions)]
+ 
+   **DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation.** [21st Dec., 2022].<br>
+*Feilong Tang, Qiming Huang, Jinfeng Wang, Xianxu Hou, Jionglong Su, Jingxin Liu.*<br>
+ [[PDF](https://arxiv.org/abs/2212.11677)]
+ 
+    **DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation.** [27th Jan., 2023].<br>
+*Reza Azad, René Arimond, Ehsan Khodapanah Aghdam, Amirhossein Kazerouni, Dorit Merhof.*<br>
+ [[PDF](https://arxiv.org/abs/2212.13504)][[Github](https://github.com/mindflow-institue/DAEFormer)]
 
  
  
@@ -420,6 +432,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer** [30th May, 2022].<br>
 *Fu-Ming Guo, Yingfang Fan.*<br>
  [[PDF]([https://arxiv.org/abs/2205.15290)]
+ 
+   **Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers** [3rd Jan, 2023].<br>
+*Chandranath Adak, Tejas Karkera, Soumi Chattopadhyay, Muhammad Saqib.*<br>
+ [[PDF]([https://arxiv.org/abs/2301.00973)]
  
  
 ## Classification COVID19 (Separate section due to its current significance)
@@ -578,6 +594,10 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Masked Co-attentional Transformer reconstructs 100x ultra-fast/low-dose whole-body PET from longitudinal images and anatomically guided MRI.** [9th May, 2022] .<br>
 *Yan-Ran Wang, Liangqiong Qu, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link.*<br>
  [[PDF](https://arxiv.org/abs/2205.04044)]
+ 
+    **Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images.** [26th Dec., 2022] .<br>
+*Weizhi Du, Harvery Tian.*<br>
+ [[PDF](https://arxiv.org/abs/2212.13068)]
 
 # Registration
 
@@ -809,6 +829,18 @@ A curated list of awesome Transformers resources in medical imaging (**in chrono
    **Transformer-based out-of-distribution detection for clinically safe segmentation.** [21st May, 2022]. [MIDL, 2022 (Oral)]<br>
 *Mark S Graham, Petru-Daniel Tudosiu, Paul Wright, Walter Hugo Lopez Pinaya, U Jean-Marie, Yee Mah, James Teo, Rolf H Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M Jorge Cardoso.*<br>
  [[PDF](https://arxiv.org/abs/2205.10650)]
+ 
+      **MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling.** [5th Jan.,, 2023].<br>
+*Sangjoon Park, Ik-Jae Lee, Jun Won Kim, Jong Chul Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2301.02064)]
+ 
+     **Cooperation Learning Enhanced Colonic Polyp Segmentation Based on Transformer-CNN Fusion.** [17th Jan.,, 2023].<br>
+*CYuanyuan Wang, Zhaohong Deng, Qiongdan Lou, Shudong Hu, Kup-sze Choi, Shitong Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2301.06892)]
+ 
+    **ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations.** [18th Jan.,, 2023].<br>
+*Chinmay Prabhakar, Hongwei Bran Li, Jiancheng Yang, Suprosana Shit, Benedikt Wiestler, Bjoern Menze.*<br>
+ [[PDF](https://arxiv.org/abs/2301.07382)]
  
  
 

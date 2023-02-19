@@ -830,15 +830,15 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Mark S Graham, Petru-Daniel Tudosiu, Paul Wright, Walter Hugo Lopez Pinaya, U Jean-Marie, Yee Mah, James Teo, Rolf H Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M Jorge Cardoso.*<br>
  [[PDF](https://arxiv.org/abs/2205.10650)]
  
-      **MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling.** [5th Jan.,, 2023].<br>
+   **MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling.** [5th Jan.,, 2023].<br>
 *Sangjoon Park, Ik-Jae Lee, Jun Won Kim, Jong Chul Ye.*<br>
  [[PDF](https://arxiv.org/abs/2301.02064)]
  
-     **Cooperation Learning Enhanced Colonic Polyp Segmentation Based on Transformer-CNN Fusion.** [17th Jan.,, 2023].<br>
+   **Cooperation Learning Enhanced Colonic Polyp Segmentation Based on Transformer-CNN Fusion.** [17th Jan.,, 2023].<br>
 *CYuanyuan Wang, Zhaohong Deng, Qiongdan Lou, Shudong Hu, Kup-sze Choi, Shitong Wang.*<br>
  [[PDF](https://arxiv.org/abs/2301.06892)]
  
-    **ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations.** [18th Jan.,, 2023].<br>
+  **ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations.** [18th Jan.,, 2023].<br>
 *Chinmay Prabhakar, Hongwei Bran Li, Jiancheng Yang, Suprosana Shit, Benedikt Wiestler, Bjoern Menze.*<br>
  [[PDF](https://arxiv.org/abs/2301.07382)]
  

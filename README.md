@@ -14,7 +14,9 @@
 
 # <p align=center>`Awesome Transformers in Medical Imaging`</p>
 
-A curated list of awesome Transformers resources in medical imaging (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at fahad.shamshad3@gmail.com.
+A curated list of awesome Transformers resources in medical imaging (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. 
+
+We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request to update their paper's information!
 
 ## Overview
 - [Survey papers](#survey)

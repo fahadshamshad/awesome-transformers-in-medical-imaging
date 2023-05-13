@@ -340,15 +340,15 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Ugur Demir, Zheyuan Zhang, Bin Wang, Matthew Antalek, Elif Keles, Debesh Jha, Amir Borhani, Daniela Ladner, Ulas Bagci.*<br>
  [[PDF](https://arxiv.org/abs/2205.10663)][[Github](https://github.com/Project-MONAI/research-contributions)]
 
-   **An uncertainty-aware transformer for MRI cardiac semantic segmentation via mean teachers.** [25th Jul, 2022].<br>
+   **An uncertainty-aware transformer for MRI cardiac semantic segmentation via mean teachers.** [25th Jul, 2022] [MIUA, 2022].<br>
 *Ziyang Wang, Jian-Qing Zheng, Irina Voiculescu.*<br>
  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-12053-4_37)][[Github](https://github.com/ziyangwang007/CV-SSL-MIS)]
 
-   **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision.** [16th Oct, 2022].<br>
+   **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision.** [16th Oct, 2022] [ICIP, 2022].<br>
 *Ziyang Wang, Nanqing Dong, Irina Voiculescu.*<br>
  [[PDF](https://ieeexplore.ieee.org/abstract/document/9897482/)][[Github](https://github.com/ziyangwang007/CV-SSL-MIS)]
 
-   **Adversarial Vision Transformer for Medical Image Semantic Segmentation with Limited Annotations.** [21st Nov, 2022].<br>
+   **Adversarial Vision Transformer for Medical Image Semantic Segmentation with Limited Annotations.** [21st Nov, 2022] [BMVC, 2022].<br>
 *Ziyang Wang, Chengkuan Zhao, Zixuan Ni.*<br>
  [[PDF](https://bmvc2022.mpi-inf.mpg.de/1002.pdf)][[Github](https://github.com/ziyangwang007/CV-SSL-MIS)]
 
@@ -356,7 +356,7 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Feilong Tang, Qiming Huang, Jinfeng Wang, Xianxu Hou, Jionglong Su, Jingxin Liu.*<br>
  [[PDF](https://arxiv.org/abs/2212.11677)]
 
-   **When cnn meet with vit: Towards semi-supervised learning for multi-class medical image semantic segmentation.** [12th Feb., 2023].<br>
+   **When cnn meet with vit: Towards semi-supervised learning for multi-class medical image semantic segmentation.** [12th Feb., 2023] [ECCV Workshop, 2022].<br>
 *Ziyang Wang, Tianze Li, Jian-Qing Zheng, Baoru Huang.*<br>
  [[PDF](https://arxiv.org/abs/2208.06449)][[Github](https://github.com/ziyangwang007/CV-SSL-MIS)]
 

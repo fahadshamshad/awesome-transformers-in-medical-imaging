@@ -5,9 +5,11 @@
 # <p align=center> This repository complements our survey paper [Transformers in Medical Imaging: A Survey](https://www.sciencedirect.com/science/article/pii/S1361841523000634), published in Medical Image Analysis.
 
 <p>
- 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
-  <strong>🏆🏆🏆🏆🏆 Spotlight: Our article is now among the Top-3 Most Downloaded of the Medical Image Analysis Journal! 🏆</strong> 
- 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
+ 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
+ 
+  <strong> Spotlight: Our article is now among the Top-3 Most Downloaded of the Medical Image Analysis Journal! </strong> 
+  
+ 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 </p>
 
 

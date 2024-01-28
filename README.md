@@ -695,11 +695,19 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
    **Unsupervised Contrastive Learning based Transformer for Lung Nodule Detection.** [30th April, 2022].<br>
 *Chuang Niu, Ge Wang.*<br>
  [[PDF](https://arxiv.org/abs/2205.00122)]
+
+   **SwinFPN: Leveraging Vision Transformers for 3D Organs-At-Risk Detection.** [9th May, 2022] [MIDL Short Paper, 2022].<br>
+*Bastian Wittmann, Suprosanna Shit, Fernando Navarro, Jan C. Peeken, Stephanie E. Combs, Bjoern Menze.*<br>
+ [[PDF](https://openreview.net/forum?id=yiIz7DhgRU5)] [[Github](https://github.com/bwittmann/transoar)]
  
    **An Effective Transformer-based Solution for RSNA Intracranial Hemorrhage Detection Competition.** [16th May, 2022].<br>
 *Fangxin Shang, Siqi Wang, Xiaorong Wang, Yehui Yang.*<br>
  [[PDF](https://arxiv.org/abs/2205.07556)] [[Github]([https://github.com/ristea/cycle-transformer](https://github.com/PaddlePaddle/Research))]
- 
+
+   **Focused Decoding Enables 3D Anatomical Detection by Transformers.** [27th February, 2023] [MELBA, 2023].<br>
+*Bastian Wittmann, Fernando Navarro, Suprosanna Shit, Bjoern Menze.*<br>
+ [[PDF](https://www.melba-journal.org/papers/2023:003.html)] [[Github](https://github.com/bwittmann/transoar)]
+
 # Clinical-Report-Generation
 
    **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019].[MLMI, 2019]<br>

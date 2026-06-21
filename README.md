@@ -36,6 +36,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Survey
 
+**A Systematic Review of Deep Learning-based Research on Radiology Report Generation** [Nov., 2023].<br>
+*[Chang Liu](https://scholar.google.com/citations?user=Y3NKd1wAAAAJ&hl=zh-CN), [Yuanhe Tian](https://scholar.google.com/citations?user=5GCwWZ8AAAAJ&hl=en), [Yan Song](https://scholar.google.com/citations?user=MsRp7g0AAAAJ&hl=zh-CN).*<br>
+[[PDF](https://arxiv.org/abs/2311.14199)] [[GitHub](https://github.com/synlp/RRG-Review)]
+
 [**Transformers in Medical Imaging: A survey.**](https://arxiv.org/abs/2201.09873) [25th Jan., 2022] <br>.
 *[Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en), and [Huazhu Fu](https://hzfu.github.io/).*<br>
 [[PDF](https://arxiv.org/abs/2201.09873)] 

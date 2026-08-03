@@ -877,6 +877,10 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Chinmay Prabhakar, Hongwei Bran Li, Jiancheng Yang, Suprosana Shit, Benedikt Wiestler, Bjoern Menze.*<br>
  [[PDF](https://arxiv.org/abs/2301.07382)]
  
+   **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.** [22nd June, 2026].<br>
+*Kalin Nonchev, Sebastian Dawo, Karina Silina, Viktor Hendrik Koelzer, Gunnar Raetsch.*<br>
+ [[PDF](https://doi.org/10.64898/2026.06.19.26356060)][[Github](https://github.com/ratschlab/DeepSpotM)]
+ 
  
 
  

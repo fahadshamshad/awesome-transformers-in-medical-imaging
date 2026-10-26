@@ -782,6 +782,17 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Edward Vendrow, Ethan Schonfeld.*<br>
  [[PDF](https://arxiv.org/abs/2205.02841)]
  
+   **Bootstrapping Large Language Models for Radiology Report Generation.** [24th Mar., 2024].[AAAI, 2024]<br>
+*Chang Liu, Yuanhe Tian, Weidong Chen, Yan Song, Yongdong Zhang.*<br>
+ [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29826)] [[Github](https://github.com/synlp/R2-LLM)]
+ 
+   **S2D-Align: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation.** [14th Nov., 2025].[AAAI, 2026]<br>
+*Jiechao Gao, Chang Liu, Yuangang Li.*<br>
+ [[PDF](https://arxiv.org/abs/2511.11066)]
+ 
+   **Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning.** [NeurIPS, 2026]<br>
+*Jiechao Gao, Chang Liu, Yuandong Pan, Ying Liu, Michael Lepech.*<br>
+ 
 
 # Others
 

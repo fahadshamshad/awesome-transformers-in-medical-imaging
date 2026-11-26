@@ -877,6 +877,22 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 *Chinmay Prabhakar, Hongwei Bran Li, Jiancheng Yang, Suprosana Shit, Benedikt Wiestler, Bjoern Menze.*<br>
  [[PDF](https://arxiv.org/abs/2301.07382)]
  
+   **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.** [22nd June, 2026].<br>
+*Kalin Nonchev, Sebastian Dawo, Karina Silina, Viktor Hendrik Koelzer, Gunnar Raetsch.*<br>
+ [[PDF](https://doi.org/10.64898/2026.06.19.26356060)][[Github](https://github.com/ratschlab/DeepSpotM)]
+ 
+   **Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs.** [19th Nov., 2026].<br>
+*Kalin Nonchev, Y. Jang, S. Nlandu Khodo, Viktor Hendrik Koelzer, Gunnar Rätsch, M. B. Moor.*<br>
+ [[PDF](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)][[Github](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)]
+ 
+   **KPMP virtual spatial transcriptomics atlas: DeepSpot-M predicted spatial gene expression (19,338 genes) for 1,534 H&E kidney biopsy slides from 476 KPMP participants.** [19th Nov., 2026].<br>
+*Kalin Nonchev, Y. Jang, S. Nlandu Khodo, Viktor Hendrik Koelzer, Gunnar Rätsch, M. B. Moor.*<br>
+ [[Dataset](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas)][[PDF](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)]
+ 
+   **KPMP Xenium virtual spatial transcriptomics: DeepSpot-M predicted spatial gene expression (19,338 genes) for ~1.64M cells in 49 H&E sections of KPMP Xenium kidney biopsies.** [19th Nov., 2026].<br>
+*Kalin Nonchev, Y. Jang, S. Nlandu Khodo, Viktor Hendrik Koelzer, Gunnar Rätsch, M. B. Moor.*<br>
+ [[Dataset](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics)][[PDF](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)]
+ 
  
 
  
